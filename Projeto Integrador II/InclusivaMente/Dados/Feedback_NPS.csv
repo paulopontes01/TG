@@ -1,0 +1,1001 @@
+Código Feedback,Tipo_Usuario,Código Referência,Categoria_NPS,Comentario
+F00000,Paciente,P01237,Promotor,Poderia ser mais rápido
+F00001,Paciente,P00888,Promotor,Muito bom
+F00002,Paciente,P00808,Promotor,Excelente atendimento
+F00003,Paciente,P01343,Promotor,Ótimo suporte
+F00004,Paciente,P01347,Detrator,Faltam recursos
+F00005,Paciente,P00620,Promotor,Confuso
+F00006,Paciente,P01414,Promotor,Ótimo suporte
+F00007,Paciente,P00619,Promotor,Excelente atendimento
+F00008,Paciente,P00028,Promotor,Muito bom
+F00009,Paciente,P01425,Detrator,Muito bom
+F00010,Paciente,P00428,Promotor,Excelente atendimento
+F00011,Paciente,P01330,Promotor,Demorado
+F00012,Paciente,P00176,Promotor,Faltam recursos
+F00013,Paciente,P00303,Promotor,Muito bom
+F00014,Paciente,P00238,Promotor,Excelente atendimento
+F00015,Paciente,P01438,Promotor,Faltam recursos
+F00016,Paciente,P00965,Promotor,Faltam recursos
+F00017,Paciente,P01198,Promotor,Fácil de usar
+F00018,Paciente,P01166,Neutro,Ótimo suporte
+F00019,Paciente,P00104,Promotor,Poderia ser mais rápido
+F00020,Paciente,P01291,Neutro,Ótimo suporte
+F00021,Paciente,P00851,Neutro,Fácil de usar
+F00022,Paciente,P00075,Promotor,Faltam recursos
+F00023,Paciente,P01051,Promotor,Faltam recursos
+F00024,Paciente,P00474,Neutro,Muito bom
+F00025,Paciente,P00864,Promotor,Poderia ser mais rápido
+F00026,Paciente,P00548,Detrator,Ótimo suporte
+F00027,Paciente,P00969,Promotor,Confuso
+F00028,Paciente,P00918,Promotor,Muito bom
+F00029,Paciente,P00330,Promotor,Demorado
+F00030,Paciente,P00961,Promotor,Demorado
+F00031,Paciente,P01039,Promotor,Confuso
+F00032,Paciente,P01233,Detrator,Faltam recursos
+F00033,Paciente,P00268,Detrator,Ótimo suporte
+F00034,Paciente,P00853,Neutro,Confuso
+F00035,Paciente,P00967,Neutro,Excelente atendimento
+F00036,Paciente,P01273,Promotor,Poderia ser mais rápido
+F00037,Paciente,P01366,Promotor,Excelente atendimento
+F00038,Paciente,P00408,Promotor,Faltam recursos
+F00039,Paciente,P00206,Neutro,Faltam recursos
+F00040,Paciente,P00621,Promotor,Muito bom
+F00041,Paciente,P00037,Promotor,Fácil de usar
+F00042,Paciente,P00731,Promotor,Excelente atendimento
+F00043,Paciente,P01031,Promotor,Poderia ser mais rápido
+F00044,Paciente,P00691,Promotor,Demorado
+F00045,Paciente,P00247,Promotor,Faltam recursos
+F00046,Paciente,P00528,Detrator,Confuso
+F00047,Paciente,P00095,Neutro,Fácil de usar
+F00048,Paciente,P00309,Detrator,Poderia ser mais rápido
+F00049,Paciente,P01446,Promotor,Faltam recursos
+F00050,Paciente,P00936,Detrator,Poderia ser mais rápido
+F00051,Paciente,P00216,Neutro,Poderia ser mais rápido
+F00052,Paciente,P01151,Promotor,Poderia ser mais rápido
+F00053,Paciente,P00342,Promotor,Demorado
+F00054,Paciente,P00740,Promotor,Fácil de usar
+F00055,Paciente,P01450,Promotor,Faltam recursos
+F00056,Paciente,P00203,Promotor,Confuso
+F00057,Paciente,P00685,Neutro,Poderia ser mais rápido
+F00058,Paciente,P00413,Promotor,Ótimo suporte
+F00059,Paciente,P00013,Promotor,Faltam recursos
+F00060,Paciente,P00699,Promotor,Excelente atendimento
+F00061,Paciente,P00174,Promotor,Ótimo suporte
+F00062,Paciente,P00738,Promotor,Demorado
+F00063,Paciente,P00310,Neutro,Ótimo suporte
+F00064,Paciente,P00467,Promotor,Ótimo suporte
+F00065,Paciente,P00846,Detrator,Faltam recursos
+F00066,Paciente,P01057,Neutro,Confuso
+F00067,Paciente,P00060,Promotor,Muito bom
+F00068,Paciente,P01469,Neutro,Poderia ser mais rápido
+F00069,Paciente,P00173,Promotor,Ótimo suporte
+F00070,Paciente,P00336,Promotor,Ótimo suporte
+F00071,Paciente,P00075,Promotor,Excelente atendimento
+F00072,Paciente,P01176,Promotor,Fácil de usar
+F00073,Paciente,P00858,Promotor,Fácil de usar
+F00074,Paciente,P01477,Neutro,Confuso
+F00075,Paciente,P00016,Neutro,Excelente atendimento
+F00076,Paciente,P01434,Promotor,Demorado
+F00077,Paciente,P01114,Promotor,Faltam recursos
+F00078,Paciente,P01428,Promotor,Ótimo suporte
+F00079,Paciente,P00404,Detrator,Poderia ser mais rápido
+F00080,Paciente,P00075,Promotor,Ótimo suporte
+F00081,Paciente,P01485,Neutro,Excelente atendimento
+F00082,Paciente,P01065,Detrator,Fácil de usar
+F00083,Paciente,P00437,Promotor,Fácil de usar
+F00084,Paciente,P01067,Promotor,Excelente atendimento
+F00085,Paciente,P00047,Promotor,Fácil de usar
+F00086,Paciente,P00494,Neutro,Fácil de usar
+F00087,Paciente,P01487,Promotor,Poderia ser mais rápido
+F00088,Paciente,P01499,Promotor,Confuso
+F00089,Paciente,P00531,Promotor,Confuso
+F00090,Paciente,P00253,Promotor,Poderia ser mais rápido
+F00091,Paciente,P00919,Promotor,Muito bom
+F00092,Paciente,P00928,Promotor,Demorado
+F00093,Paciente,P01191,Promotor,Demorado
+F00094,Paciente,P00717,Promotor,Excelente atendimento
+F00095,Paciente,P01462,Promotor,Demorado
+F00096,Paciente,P00215,Promotor,Demorado
+F00097,Paciente,P00739,Promotor,Excelente atendimento
+F00098,Paciente,P01457,Promotor,Ótimo suporte
+F00099,Paciente,P00167,Promotor,Ótimo suporte
+F00100,Paciente,P00266,Promotor,Faltam recursos
+F00101,Paciente,P00159,Promotor,Ótimo suporte
+F00102,Paciente,P01204,Promotor,Ótimo suporte
+F00103,Paciente,P00540,Promotor,Ótimo suporte
+F00104,Paciente,P00901,Promotor,Faltam recursos
+F00105,Paciente,P01498,Detrator,Excelente atendimento
+F00106,Paciente,P00295,Promotor,Faltam recursos
+F00107,Paciente,P01456,Promotor,Poderia ser mais rápido
+F00108,Paciente,P01422,Promotor,Faltam recursos
+F00109,Paciente,P00066,Neutro,Confuso
+F00110,Paciente,P00243,Promotor,Ótimo suporte
+F00111,Paciente,P00225,Promotor,Fácil de usar
+F00112,Paciente,P00082,Promotor,Poderia ser mais rápido
+F00113,Paciente,P00760,Promotor,Confuso
+F00114,Paciente,P00621,Promotor,Muito bom
+F00115,Paciente,P00292,Promotor,Ótimo suporte
+F00116,Paciente,P00099,Detrator,Fácil de usar
+F00117,Paciente,P00580,Promotor,Faltam recursos
+F00118,Paciente,P00004,Promotor,Confuso
+F00119,Paciente,P00138,Detrator,Ótimo suporte
+F00120,Paciente,P00985,Promotor,Faltam recursos
+F00121,Paciente,P00691,Neutro,Faltam recursos
+F00122,Paciente,P01474,Neutro,Excelente atendimento
+F00123,Paciente,P00283,Promotor,Faltam recursos
+F00124,Paciente,P00921,Promotor,Excelente atendimento
+F00125,Paciente,P01490,Promotor,Ótimo suporte
+F00126,Paciente,P00793,Promotor,Ótimo suporte
+F00127,Paciente,P00694,Promotor,Faltam recursos
+F00128,Paciente,P00568,Promotor,Excelente atendimento
+F00129,Paciente,P01448,Promotor,Fácil de usar
+F00130,Paciente,P01149,Promotor,Poderia ser mais rápido
+F00131,Paciente,P00394,Detrator,Muito bom
+F00132,Paciente,P01167,Promotor,Faltam recursos
+F00133,Paciente,P01029,Detrator,Poderia ser mais rápido
+F00134,Paciente,P01348,Detrator,Excelente atendimento
+F00135,Paciente,P00038,Promotor,Demorado
+F00136,Paciente,P00502,Neutro,Faltam recursos
+F00137,Paciente,P00173,Neutro,Confuso
+F00138,Paciente,P00822,Promotor,Faltam recursos
+F00139,Paciente,P00047,Promotor,Excelente atendimento
+F00140,Paciente,P00849,Promotor,Confuso
+F00141,Paciente,P00782,Promotor,Poderia ser mais rápido
+F00142,Paciente,P00203,Promotor,Fácil de usar
+F00143,Paciente,P00294,Promotor,Poderia ser mais rápido
+F00144,Paciente,P00315,Promotor,Ótimo suporte
+F00145,Paciente,P01389,Promotor,Confuso
+F00146,Paciente,P00371,Promotor,Muito bom
+F00147,Paciente,P00610,Promotor,Confuso
+F00148,Paciente,P00291,Promotor,Confuso
+F00149,Paciente,P00528,Promotor,Poderia ser mais rápido
+F00150,Paciente,P00106,Promotor,Demorado
+F00151,Paciente,P01009,Promotor,Ótimo suporte
+F00152,Paciente,P00235,Promotor,Confuso
+F00153,Paciente,P00951,Promotor,Poderia ser mais rápido
+F00154,Paciente,P00991,Promotor,Demorado
+F00155,Paciente,P00038,Promotor,Poderia ser mais rápido
+F00156,Paciente,P00504,Neutro,Excelente atendimento
+F00157,Paciente,P00623,Promotor,Faltam recursos
+F00158,Paciente,P00171,Neutro,Demorado
+F00159,Paciente,P00291,Promotor,Excelente atendimento
+F00160,Paciente,P00502,Promotor,Ótimo suporte
+F00161,Paciente,P01136,Promotor,Muito bom
+F00162,Paciente,P00951,Detrator,Fácil de usar
+F00163,Paciente,P01337,Detrator,Muito bom
+F00164,Paciente,P00123,Detrator,Faltam recursos
+F00165,Paciente,P00559,Promotor,Ótimo suporte
+F00166,Paciente,P00719,Neutro,Demorado
+F00167,Paciente,P01198,Neutro,Fácil de usar
+F00168,Paciente,P00093,Promotor,Poderia ser mais rápido
+F00169,Paciente,P00615,Promotor,Poderia ser mais rápido
+F00170,Paciente,P00286,Neutro,Fácil de usar
+F00171,Paciente,P00884,Promotor,Confuso
+F00172,Paciente,P01396,Detrator,Fácil de usar
+F00173,Paciente,P01449,Promotor,Demorado
+F00174,Paciente,P01356,Detrator,Confuso
+F00175,Paciente,P00431,Promotor,Confuso
+F00176,Paciente,P00032,Detrator,Excelente atendimento
+F00177,Paciente,P01323,Detrator,Faltam recursos
+F00178,Paciente,P00008,Detrator,Excelente atendimento
+F00179,Paciente,P00846,Promotor,Faltam recursos
+F00180,Paciente,P00804,Promotor,Poderia ser mais rápido
+F00181,Paciente,P01103,Promotor,Faltam recursos
+F00182,Paciente,P01376,Promotor,Ótimo suporte
+F00183,Paciente,P01231,Promotor,Excelente atendimento
+F00184,Paciente,P01427,Detrator,Poderia ser mais rápido
+F00185,Paciente,P00947,Promotor,Demorado
+F00186,Paciente,P00910,Promotor,Muito bom
+F00187,Paciente,P00575,Promotor,Confuso
+F00188,Paciente,P00392,Promotor,Fácil de usar
+F00189,Paciente,P01470,Promotor,Faltam recursos
+F00190,Paciente,P00743,Promotor,Faltam recursos
+F00191,Paciente,P01441,Neutro,Demorado
+F00192,Paciente,P00014,Promotor,Ótimo suporte
+F00193,Paciente,P00227,Detrator,Faltam recursos
+F00194,Paciente,P00349,Promotor,Excelente atendimento
+F00195,Paciente,P00133,Promotor,Poderia ser mais rápido
+F00196,Paciente,P00260,Promotor,Demorado
+F00197,Paciente,P01071,Neutro,Fácil de usar
+F00198,Paciente,P00392,Neutro,Muito bom
+F00199,Paciente,P01419,Promotor,Fácil de usar
+F00200,Paciente,P01394,Promotor,Faltam recursos
+F00201,Paciente,P00004,Detrator,Muito bom
+F00202,Paciente,P00661,Promotor,Ótimo suporte
+F00203,Paciente,P00561,Promotor,Faltam recursos
+F00204,Paciente,P01014,Promotor,Muito bom
+F00205,Paciente,P01477,Promotor,Fácil de usar
+F00206,Paciente,P00860,Promotor,Confuso
+F00207,Paciente,P00010,Promotor,Confuso
+F00208,Paciente,P00167,Detrator,Muito bom
+F00209,Paciente,P00462,Detrator,Ótimo suporte
+F00210,Paciente,P00152,Detrator,Demorado
+F00211,Paciente,P00336,Promotor,Poderia ser mais rápido
+F00212,Paciente,P01282,Promotor,Muito bom
+F00213,Paciente,P00982,Promotor,Muito bom
+F00214,Paciente,P01213,Neutro,Confuso
+F00215,Paciente,P00512,Promotor,Faltam recursos
+F00216,Paciente,P00488,Detrator,Muito bom
+F00217,Paciente,P00683,Promotor,Demorado
+F00218,Paciente,P00149,Neutro,Faltam recursos
+F00219,Paciente,P00195,Promotor,Poderia ser mais rápido
+F00220,Paciente,P00175,Detrator,Muito bom
+F00221,Paciente,P00772,Promotor,Poderia ser mais rápido
+F00222,Paciente,P00261,Promotor,Faltam recursos
+F00223,Paciente,P00112,Promotor,Ótimo suporte
+F00224,Paciente,P00134,Promotor,Muito bom
+F00225,Paciente,P01145,Promotor,Ótimo suporte
+F00226,Paciente,P00822,Promotor,Ótimo suporte
+F00227,Paciente,P00477,Detrator,Muito bom
+F00228,Paciente,P00928,Promotor,Ótimo suporte
+F00229,Paciente,P01270,Promotor,Confuso
+F00230,Paciente,P01333,Detrator,Muito bom
+F00231,Paciente,P00929,Promotor,Demorado
+F00232,Paciente,P00221,Promotor,Poderia ser mais rápido
+F00233,Paciente,P01214,Neutro,Demorado
+F00234,Paciente,P01173,Promotor,Fácil de usar
+F00235,Paciente,P00727,Promotor,Faltam recursos
+F00236,Paciente,P00380,Promotor,Muito bom
+F00237,Paciente,P00123,Promotor,Ótimo suporte
+F00238,Paciente,P01050,Detrator,Confuso
+F00239,Paciente,P00637,Promotor,Excelente atendimento
+F00240,Paciente,P00301,Promotor,Confuso
+F00241,Paciente,P00596,Promotor,Muito bom
+F00242,Paciente,P01060,Promotor,Excelente atendimento
+F00243,Paciente,P00117,Promotor,Muito bom
+F00244,Paciente,P00864,Promotor,Demorado
+F00245,Paciente,P01311,Detrator,Poderia ser mais rápido
+F00246,Paciente,P00699,Promotor,Faltam recursos
+F00247,Paciente,P01422,Promotor,Faltam recursos
+F00248,Paciente,P01228,Promotor,Confuso
+F00249,Paciente,P01261,Promotor,Confuso
+F00250,Paciente,P00332,Promotor,Muito bom
+F00251,Paciente,P01015,Promotor,Muito bom
+F00252,Paciente,P01308,Promotor,Demorado
+F00253,Paciente,P00955,Promotor,Demorado
+F00254,Paciente,P00984,Neutro,Confuso
+F00255,Paciente,P00769,Promotor,Excelente atendimento
+F00256,Paciente,P00013,Promotor,Poderia ser mais rápido
+F00257,Paciente,P00732,Promotor,Poderia ser mais rápido
+F00258,Paciente,P00291,Promotor,Demorado
+F00259,Paciente,P01292,Promotor,Confuso
+F00260,Paciente,P00089,Detrator,Demorado
+F00261,Paciente,P00405,Promotor,Demorado
+F00262,Paciente,P00536,Neutro,Confuso
+F00263,Paciente,P01135,Promotor,Demorado
+F00264,Paciente,P00044,Promotor,Fácil de usar
+F00265,Paciente,P00207,Promotor,Excelente atendimento
+F00266,Paciente,P00776,Promotor,Poderia ser mais rápido
+F00267,Paciente,P00693,Detrator,Fácil de usar
+F00268,Paciente,P00934,Promotor,Confuso
+F00269,Paciente,P01353,Promotor,Ótimo suporte
+F00270,Paciente,P01456,Promotor,Excelente atendimento
+F00271,Paciente,P00267,Neutro,Demorado
+F00272,Paciente,P01090,Promotor,Confuso
+F00273,Paciente,P00651,Promotor,Demorado
+F00274,Paciente,P00094,Neutro,Demorado
+F00275,Paciente,P01096,Promotor,Excelente atendimento
+F00276,Paciente,P00671,Promotor,Fácil de usar
+F00277,Paciente,P00258,Detrator,Faltam recursos
+F00278,Paciente,P00428,Neutro,Faltam recursos
+F00279,Paciente,P01358,Promotor,Excelente atendimento
+F00280,Paciente,P01041,Promotor,Confuso
+F00281,Paciente,P01021,Promotor,Excelente atendimento
+F00282,Paciente,P00659,Neutro,Faltam recursos
+F00283,Paciente,P01465,Detrator,Faltam recursos
+F00284,Paciente,P00549,Promotor,Muito bom
+F00285,Paciente,P00424,Promotor,Demorado
+F00286,Paciente,P00925,Detrator,Ótimo suporte
+F00287,Paciente,P00447,Promotor,Ótimo suporte
+F00288,Paciente,P01170,Promotor,Confuso
+F00289,Paciente,P00521,Promotor,Excelente atendimento
+F00290,Paciente,P00172,Promotor,Confuso
+F00291,Paciente,P00471,Promotor,Faltam recursos
+F00292,Paciente,P01049,Promotor,Ótimo suporte
+F00293,Paciente,P00923,Promotor,Ótimo suporte
+F00294,Paciente,P00752,Neutro,Confuso
+F00295,Paciente,P00559,Promotor,Excelente atendimento
+F00296,Paciente,P00904,Promotor,Poderia ser mais rápido
+F00297,Paciente,P00735,Detrator,Fácil de usar
+F00298,Paciente,P01027,Promotor,Poderia ser mais rápido
+F00299,Paciente,P00566,Detrator,Poderia ser mais rápido
+F00300,Paciente,P00242,Promotor,Muito bom
+F00301,Paciente,P01118,Promotor,Demorado
+F00302,Paciente,P01382,Promotor,Fácil de usar
+F00303,Paciente,P01399,Neutro,Demorado
+F00304,Paciente,P01445,Promotor,Excelente atendimento
+F00305,Paciente,P01466,Neutro,Fácil de usar
+F00306,Paciente,P00017,Neutro,Fácil de usar
+F00307,Paciente,P00709,Neutro,Ótimo suporte
+F00308,Paciente,P00830,Neutro,Muito bom
+F00309,Paciente,P00966,Promotor,Excelente atendimento
+F00310,Paciente,P00814,Promotor,Demorado
+F00311,Paciente,P00971,Promotor,Faltam recursos
+F00312,Paciente,P01479,Neutro,Confuso
+F00313,Paciente,P00175,Promotor,Demorado
+F00314,Paciente,P00878,Neutro,Ótimo suporte
+F00315,Paciente,P00429,Promotor,Muito bom
+F00316,Paciente,P00767,Promotor,Excelente atendimento
+F00317,Paciente,P00625,Detrator,Muito bom
+F00318,Paciente,P01023,Neutro,Confuso
+F00319,Paciente,P00695,Promotor,Ótimo suporte
+F00320,Paciente,P01404,Neutro,Fácil de usar
+F00321,Paciente,P00667,Promotor,Muito bom
+F00322,Paciente,P00284,Promotor,Confuso
+F00323,Paciente,P01163,Promotor,Ótimo suporte
+F00324,Paciente,P00780,Promotor,Ótimo suporte
+F00325,Paciente,P00130,Promotor,Demorado
+F00326,Paciente,P00972,Promotor,Faltam recursos
+F00327,Paciente,P01308,Detrator,Poderia ser mais rápido
+F00328,Paciente,P00351,Promotor,Excelente atendimento
+F00329,Paciente,P00065,Neutro,Faltam recursos
+F00330,Paciente,P00054,Promotor,Poderia ser mais rápido
+F00331,Paciente,P00790,Promotor,Demorado
+F00332,Paciente,P00596,Promotor,Poderia ser mais rápido
+F00333,Paciente,P00931,Promotor,Muito bom
+F00334,Paciente,P00351,Promotor,Ótimo suporte
+F00335,Paciente,P00800,Promotor,Poderia ser mais rápido
+F00336,Paciente,P00264,Promotor,Faltam recursos
+F00337,Paciente,P00140,Promotor,Demorado
+F00338,Paciente,P00266,Detrator,Fácil de usar
+F00339,Paciente,P00885,Neutro,Faltam recursos
+F00340,Paciente,P00325,Promotor,Fácil de usar
+F00341,Paciente,P01203,Promotor,Faltam recursos
+F00342,Paciente,P00564,Promotor,Excelente atendimento
+F00343,Paciente,P00912,Promotor,Ótimo suporte
+F00344,Paciente,P01238,Neutro,Confuso
+F00345,Paciente,P01165,Detrator,Faltam recursos
+F00346,Paciente,P00947,Promotor,Poderia ser mais rápido
+F00347,Paciente,P00589,Promotor,Faltam recursos
+F00348,Paciente,P00710,Neutro,Fácil de usar
+F00349,Paciente,P00800,Promotor,Excelente atendimento
+F00350,Paciente,P00850,Promotor,Ótimo suporte
+F00351,Paciente,P00937,Promotor,Excelente atendimento
+F00352,Paciente,P01430,Promotor,Ótimo suporte
+F00353,Paciente,P01430,Detrator,Demorado
+F00354,Paciente,P00323,Promotor,Fácil de usar
+F00355,Paciente,P01365,Detrator,Demorado
+F00356,Paciente,P01010,Promotor,Poderia ser mais rápido
+F00357,Paciente,P00755,Promotor,Poderia ser mais rápido
+F00358,Paciente,P01033,Neutro,Confuso
+F00359,Paciente,P00839,Promotor,Fácil de usar
+F00360,Paciente,P00424,Promotor,Faltam recursos
+F00361,Paciente,P00054,Promotor,Faltam recursos
+F00362,Paciente,P00780,Promotor,Ótimo suporte
+F00363,Paciente,P00398,Promotor,Muito bom
+F00364,Paciente,P00513,Promotor,Excelente atendimento
+F00365,Paciente,P00669,Promotor,Faltam recursos
+F00366,Paciente,P00992,Promotor,Poderia ser mais rápido
+F00367,Paciente,P01123,Promotor,Faltam recursos
+F00368,Paciente,P00287,Promotor,Fácil de usar
+F00369,Paciente,P00330,Promotor,Muito bom
+F00370,Paciente,P01243,Promotor,Fácil de usar
+F00371,Paciente,P00254,Promotor,Ótimo suporte
+F00372,Paciente,P00344,Promotor,Muito bom
+F00373,Paciente,P01387,Promotor,Faltam recursos
+F00374,Paciente,P00733,Promotor,Muito bom
+F00375,Paciente,P01382,Promotor,Faltam recursos
+F00376,Paciente,P01426,Promotor,Poderia ser mais rápido
+F00377,Paciente,P00799,Promotor,Faltam recursos
+F00378,Paciente,P00107,Promotor,Muito bom
+F00379,Paciente,P00772,Neutro,Demorado
+F00380,Paciente,P00767,Detrator,Demorado
+F00381,Paciente,P00187,Promotor,Muito bom
+F00382,Paciente,P00029,Promotor,Demorado
+F00383,Paciente,P01392,Promotor,Demorado
+F00384,Paciente,P00197,Neutro,Excelente atendimento
+F00385,Paciente,P01482,Promotor,Ótimo suporte
+F00386,Paciente,P01049,Promotor,Confuso
+F00387,Paciente,P00660,Promotor,Demorado
+F00388,Paciente,P01279,Promotor,Ótimo suporte
+F00389,Paciente,P00876,Promotor,Demorado
+F00390,Paciente,P00216,Promotor,Excelente atendimento
+F00391,Paciente,P00030,Promotor,Confuso
+F00392,Paciente,P00024,Promotor,Faltam recursos
+F00393,Paciente,P00450,Promotor,Fácil de usar
+F00394,Paciente,P01331,Promotor,Muito bom
+F00395,Paciente,P00137,Detrator,Ótimo suporte
+F00396,Paciente,P00617,Neutro,Faltam recursos
+F00397,Paciente,P00208,Neutro,Excelente atendimento
+F00398,Paciente,P00515,Detrator,Confuso
+F00399,Paciente,P01292,Promotor,Excelente atendimento
+F00400,Paciente,P00680,Promotor,Confuso
+F00401,Paciente,P01364,Promotor,Confuso
+F00402,Paciente,P00036,Promotor,Faltam recursos
+F00403,Paciente,P00783,Promotor,Demorado
+F00404,Paciente,P01031,Promotor,Muito bom
+F00405,Paciente,P00476,Promotor,Poderia ser mais rápido
+F00406,Paciente,P00632,Promotor,Ótimo suporte
+F00407,Paciente,P00498,Promotor,Muito bom
+F00408,Paciente,P00281,Promotor,Fácil de usar
+F00409,Paciente,P00413,Promotor,Demorado
+F00410,Paciente,P01314,Promotor,Faltam recursos
+F00411,Paciente,P00673,Promotor,Confuso
+F00412,Paciente,P01318,Neutro,Muito bom
+F00413,Paciente,P01066,Neutro,Ótimo suporte
+F00414,Paciente,P01327,Neutro,Muito bom
+F00415,Paciente,P00469,Neutro,Confuso
+F00416,Paciente,P00701,Promotor,Muito bom
+F00417,Paciente,P01361,Detrator,Demorado
+F00418,Paciente,P01245,Detrator,Confuso
+F00419,Paciente,P00375,Promotor,Muito bom
+F00420,Paciente,P00132,Detrator,Poderia ser mais rápido
+F00421,Paciente,P00394,Promotor,Excelente atendimento
+F00422,Paciente,P00418,Promotor,Excelente atendimento
+F00423,Paciente,P01213,Promotor,Demorado
+F00424,Paciente,P00483,Promotor,Ótimo suporte
+F00425,Paciente,P01484,Promotor,Excelente atendimento
+F00426,Paciente,P01477,Promotor,Ótimo suporte
+F00427,Paciente,P00361,Promotor,Fácil de usar
+F00428,Paciente,P00584,Promotor,Demorado
+F00429,Paciente,P00556,Detrator,Faltam recursos
+F00430,Paciente,P00163,Detrator,Confuso
+F00431,Paciente,P00815,Promotor,Faltam recursos
+F00432,Paciente,P00903,Promotor,Ótimo suporte
+F00433,Paciente,P00319,Neutro,Faltam recursos
+F00434,Paciente,P00040,Neutro,Ótimo suporte
+F00435,Paciente,P00170,Neutro,Fácil de usar
+F00436,Paciente,P01218,Promotor,Excelente atendimento
+F00437,Paciente,P00526,Promotor,Fácil de usar
+F00438,Paciente,P00928,Promotor,Faltam recursos
+F00439,Paciente,P00147,Promotor,Faltam recursos
+F00440,Paciente,P00400,Promotor,Demorado
+F00441,Paciente,P00008,Promotor,Confuso
+F00442,Paciente,P01006,Promotor,Ótimo suporte
+F00443,Paciente,P00808,Detrator,Confuso
+F00444,Paciente,P00786,Promotor,Poderia ser mais rápido
+F00445,Paciente,P00837,Detrator,Poderia ser mais rápido
+F00446,Paciente,P00788,Detrator,Excelente atendimento
+F00447,Paciente,P00397,Neutro,Fácil de usar
+F00448,Paciente,P01479,Promotor,Faltam recursos
+F00449,Paciente,P01300,Promotor,Muito bom
+F00450,Paciente,P01333,Promotor,Ótimo suporte
+F00451,Paciente,P00505,Promotor,Muito bom
+F00452,Paciente,P00740,Promotor,Muito bom
+F00453,Paciente,P01428,Promotor,Excelente atendimento
+F00454,Paciente,P00535,Promotor,Excelente atendimento
+F00455,Paciente,P00520,Promotor,Excelente atendimento
+F00456,Paciente,P00025,Promotor,Poderia ser mais rápido
+F00457,Paciente,P01319,Neutro,Ótimo suporte
+F00458,Paciente,P00814,Neutro,Poderia ser mais rápido
+F00459,Paciente,P01061,Detrator,Ótimo suporte
+F00460,Paciente,P00339,Neutro,Fácil de usar
+F00461,Paciente,P01416,Promotor,Ótimo suporte
+F00462,Paciente,P01200,Promotor,Ótimo suporte
+F00463,Paciente,P01490,Detrator,Poderia ser mais rápido
+F00464,Paciente,P01302,Promotor,Confuso
+F00465,Paciente,P00292,Promotor,Demorado
+F00466,Paciente,P00815,Promotor,Muito bom
+F00467,Paciente,P00344,Neutro,Muito bom
+F00468,Paciente,P00198,Promotor,Ótimo suporte
+F00469,Paciente,P01075,Promotor,Fácil de usar
+F00470,Paciente,P00882,Promotor,Confuso
+F00471,Paciente,P00381,Neutro,Demorado
+F00472,Paciente,P00996,Promotor,Poderia ser mais rápido
+F00473,Paciente,P00922,Promotor,Demorado
+F00474,Paciente,P00380,Promotor,Excelente atendimento
+F00475,Paciente,P00392,Promotor,Ótimo suporte
+F00476,Paciente,P00902,Promotor,Poderia ser mais rápido
+F00477,Paciente,P01303,Promotor,Fácil de usar
+F00478,Paciente,P00175,Promotor,Fácil de usar
+F00479,Paciente,P00131,Promotor,Demorado
+F00480,Paciente,P00978,Promotor,Poderia ser mais rápido
+F00481,Paciente,P00019,Promotor,Muito bom
+F00482,Paciente,P01362,Promotor,Muito bom
+F00483,Paciente,P00198,Promotor,Muito bom
+F00484,Paciente,P00769,Promotor,Fácil de usar
+F00485,Paciente,P00995,Promotor,Confuso
+F00486,Paciente,P01237,Promotor,Confuso
+F00487,Paciente,P01396,Detrator,Confuso
+F00488,Paciente,P00490,Detrator,Ótimo suporte
+F00489,Paciente,P00775,Promotor,Confuso
+F00490,Paciente,P00676,Neutro,Muito bom
+F00491,Paciente,P00935,Detrator,Ótimo suporte
+F00492,Paciente,P01485,Neutro,Excelente atendimento
+F00493,Paciente,P00052,Promotor,Fácil de usar
+F00494,Paciente,P01432,Neutro,Demorado
+F00495,Paciente,P00754,Promotor,Faltam recursos
+F00496,Paciente,P01054,Promotor,Demorado
+F00497,Paciente,P00006,Detrator,Confuso
+F00498,Paciente,P00034,Promotor,Muito bom
+F00499,Paciente,P00666,Promotor,Demorado
+F00500,Paciente,P01242,Promotor,Poderia ser mais rápido
+F00501,Paciente,P00713,Promotor,Faltam recursos
+F00502,Paciente,P01348,Detrator,Poderia ser mais rápido
+F00503,Paciente,P00788,Promotor,Demorado
+F00504,Paciente,P01458,Promotor,Muito bom
+F00505,Paciente,P00261,Promotor,Poderia ser mais rápido
+F00506,Paciente,P00617,Neutro,Faltam recursos
+F00507,Paciente,P00344,Detrator,Poderia ser mais rápido
+F00508,Paciente,P00987,Promotor,Demorado
+F00509,Paciente,P00498,Promotor,Poderia ser mais rápido
+F00510,Paciente,P00216,Promotor,Muito bom
+F00511,Paciente,P00328,Detrator,Confuso
+F00512,Paciente,P00785,Neutro,Demorado
+F00513,Paciente,P01472,Promotor,Faltam recursos
+F00514,Paciente,P01373,Promotor,Excelente atendimento
+F00515,Paciente,P01094,Promotor,Faltam recursos
+F00516,Paciente,P00185,Neutro,Confuso
+F00517,Paciente,P00458,Detrator,Poderia ser mais rápido
+F00518,Paciente,P01318,Promotor,Ótimo suporte
+F00519,Paciente,P01339,Promotor,Ótimo suporte
+F00520,Paciente,P00477,Promotor,Poderia ser mais rápido
+F00521,Paciente,P00595,Promotor,Poderia ser mais rápido
+F00522,Paciente,P00696,Neutro,Demorado
+F00523,Paciente,P00237,Promotor,Excelente atendimento
+F00524,Paciente,P00641,Detrator,Muito bom
+F00525,Paciente,P00636,Promotor,Demorado
+F00526,Paciente,P00794,Detrator,Confuso
+F00527,Paciente,P00747,Neutro,Excelente atendimento
+F00528,Paciente,P01064,Promotor,Demorado
+F00529,Paciente,P00218,Promotor,Faltam recursos
+F00530,Paciente,P00647,Promotor,Fácil de usar
+F00531,Paciente,P00448,Promotor,Faltam recursos
+F00532,Paciente,P00301,Promotor,Excelente atendimento
+F00533,Paciente,P01362,Neutro,Muito bom
+F00534,Paciente,P01226,Promotor,Poderia ser mais rápido
+F00535,Paciente,P00560,Detrator,Faltam recursos
+F00536,Paciente,P01292,Neutro,Faltam recursos
+F00537,Paciente,P00596,Neutro,Ótimo suporte
+F00538,Paciente,P00120,Detrator,Confuso
+F00539,Paciente,P00312,Neutro,Demorado
+F00540,Paciente,P00460,Neutro,Muito bom
+F00541,Paciente,P00366,Detrator,Ótimo suporte
+F00542,Paciente,P00612,Detrator,Excelente atendimento
+F00543,Paciente,P00044,Promotor,Confuso
+F00544,Paciente,P00865,Promotor,Confuso
+F00545,Paciente,P00801,Promotor,Fácil de usar
+F00546,Paciente,P00578,Promotor,Demorado
+F00547,Paciente,P01435,Detrator,Ótimo suporte
+F00548,Paciente,P00199,Promotor,Muito bom
+F00549,Paciente,P01453,Promotor,Excelente atendimento
+F00550,Paciente,P01182,Promotor,Faltam recursos
+F00551,Paciente,P00596,Detrator,Demorado
+F00552,Paciente,P00446,Neutro,Demorado
+F00553,Paciente,P01333,Promotor,Poderia ser mais rápido
+F00554,Paciente,P01389,Neutro,Excelente atendimento
+F00555,Paciente,P00771,Detrator,Ótimo suporte
+F00556,Paciente,P01391,Neutro,Muito bom
+F00557,Paciente,P00196,Promotor,Faltam recursos
+F00558,Paciente,P00367,Detrator,Poderia ser mais rápido
+F00559,Paciente,P01055,Promotor,Ótimo suporte
+F00560,Paciente,P00304,Promotor,Ótimo suporte
+F00561,Paciente,P00501,Promotor,Demorado
+F00562,Paciente,P00812,Promotor,Excelente atendimento
+F00563,Paciente,P01336,Neutro,Poderia ser mais rápido
+F00564,Paciente,P00949,Detrator,Ótimo suporte
+F00565,Paciente,P00563,Promotor,Faltam recursos
+F00566,Paciente,P00752,Promotor,Poderia ser mais rápido
+F00567,Paciente,P00169,Promotor,Demorado
+F00568,Paciente,P00047,Promotor,Faltam recursos
+F00569,Paciente,P00560,Promotor,Poderia ser mais rápido
+F00570,Paciente,P01214,Promotor,Faltam recursos
+F00571,Paciente,P01320,Neutro,Fácil de usar
+F00572,Paciente,P01170,Promotor,Confuso
+F00573,Paciente,P00130,Neutro,Excelente atendimento
+F00574,Paciente,P00830,Neutro,Muito bom
+F00575,Paciente,P00806,Promotor,Faltam recursos
+F00576,Paciente,P00130,Promotor,Poderia ser mais rápido
+F00577,Paciente,P00424,Detrator,Poderia ser mais rápido
+F00578,Paciente,P00370,Detrator,Excelente atendimento
+F00579,Paciente,P00010,Promotor,Confuso
+F00580,Paciente,P00251,Promotor,Demorado
+F00581,Paciente,P01336,Promotor,Fácil de usar
+F00582,Paciente,P00071,Promotor,Poderia ser mais rápido
+F00583,Paciente,P01036,Promotor,Excelente atendimento
+F00584,Paciente,P00866,Detrator,Muito bom
+F00585,Paciente,P00508,Promotor,Fácil de usar
+F00586,Paciente,P01349,Promotor,Excelente atendimento
+F00587,Paciente,P01181,Promotor,Confuso
+F00588,Paciente,P01070,Detrator,Confuso
+F00589,Paciente,P01241,Promotor,Demorado
+F00590,Paciente,P01408,Promotor,Muito bom
+F00591,Paciente,P00485,Promotor,Excelente atendimento
+F00592,Paciente,P00613,Detrator,Demorado
+F00593,Paciente,P00274,Promotor,Demorado
+F00594,Paciente,P01211,Promotor,Excelente atendimento
+F00595,Paciente,P01493,Promotor,Poderia ser mais rápido
+F00596,Paciente,P01126,Promotor,Ótimo suporte
+F00597,Paciente,P01330,Detrator,Ótimo suporte
+F00598,Paciente,P00934,Promotor,Fácil de usar
+F00599,Paciente,P01385,Promotor,Excelente atendimento
+F00600,Paciente,P01097,Promotor,Fácil de usar
+F00601,Paciente,P01296,Promotor,Demorado
+F00602,Paciente,P01463,Promotor,Excelente atendimento
+F00603,Paciente,P00859,Neutro,Confuso
+F00604,Paciente,P00888,Promotor,Demorado
+F00605,Paciente,P00158,Promotor,Poderia ser mais rápido
+F00606,Paciente,P01400,Promotor,Poderia ser mais rápido
+F00607,Paciente,P00674,Promotor,Confuso
+F00608,Paciente,P00683,Neutro,Excelente atendimento
+F00609,Paciente,P00462,Promotor,Poderia ser mais rápido
+F00610,Paciente,P00772,Detrator,Demorado
+F00611,Paciente,P00775,Detrator,Poderia ser mais rápido
+F00612,Paciente,P00359,Promotor,Fácil de usar
+F00613,Paciente,P01205,Neutro,Faltam recursos
+F00614,Paciente,P00195,Promotor,Fácil de usar
+F00615,Paciente,P01129,Promotor,Poderia ser mais rápido
+F00616,Paciente,P00098,Promotor,Ótimo suporte
+F00617,Paciente,P00370,Promotor,Ótimo suporte
+F00618,Paciente,P00976,Promotor,Fácil de usar
+F00619,Paciente,P00019,Promotor,Excelente atendimento
+F00620,Paciente,P01346,Promotor,Ótimo suporte
+F00621,Paciente,P01162,Neutro,Muito bom
+F00622,Paciente,P01485,Promotor,Confuso
+F00623,Paciente,P01448,Neutro,Ótimo suporte
+F00624,Paciente,P01447,Promotor,Faltam recursos
+F00625,Paciente,P00724,Neutro,Fácil de usar
+F00626,Paciente,P00564,Detrator,Demorado
+F00627,Paciente,P00625,Promotor,Poderia ser mais rápido
+F00628,Paciente,P00625,Promotor,Confuso
+F00629,Paciente,P00184,Promotor,Poderia ser mais rápido
+F00630,Paciente,P01494,Promotor,Poderia ser mais rápido
+F00631,Paciente,P00338,Promotor,Poderia ser mais rápido
+F00632,Paciente,P00585,Promotor,Faltam recursos
+F00633,Paciente,P00021,Detrator,Ótimo suporte
+F00634,Paciente,P01386,Promotor,Excelente atendimento
+F00635,Paciente,P00982,Promotor,Poderia ser mais rápido
+F00636,Paciente,P00830,Promotor,Demorado
+F00637,Paciente,P00014,Neutro,Confuso
+F00638,Paciente,P00500,Detrator,Muito bom
+F00639,Paciente,P01243,Promotor,Excelente atendimento
+F00640,Paciente,P01381,Detrator,Demorado
+F00641,Paciente,P00358,Promotor,Excelente atendimento
+F00642,Paciente,P01052,Promotor,Muito bom
+F00643,Paciente,P00865,Promotor,Excelente atendimento
+F00644,Paciente,P00764,Detrator,Confuso
+F00645,Paciente,P01390,Promotor,Poderia ser mais rápido
+F00646,Paciente,P00594,Promotor,Fácil de usar
+F00647,Paciente,P00542,Promotor,Ótimo suporte
+F00648,Paciente,P00445,Detrator,Muito bom
+F00649,Paciente,P00948,Detrator,Faltam recursos
+F00650,Paciente,P00117,Promotor,Faltam recursos
+F00651,Paciente,P00672,Promotor,Poderia ser mais rápido
+F00652,Paciente,P00010,Promotor,Excelente atendimento
+F00653,Paciente,P00823,Promotor,Poderia ser mais rápido
+F00654,Paciente,P00882,Promotor,Poderia ser mais rápido
+F00655,Paciente,P01083,Promotor,Excelente atendimento
+F00656,Paciente,P00841,Promotor,Faltam recursos
+F00657,Paciente,P00014,Promotor,Fácil de usar
+F00658,Paciente,P00463,Promotor,Confuso
+F00659,Paciente,P00612,Promotor,Excelente atendimento
+F00660,Paciente,P01098,Neutro,Poderia ser mais rápido
+F00661,Paciente,P00898,Promotor,Faltam recursos
+F00662,Paciente,P00331,Promotor,Ótimo suporte
+F00663,Paciente,P00011,Promotor,Demorado
+F00664,Paciente,P00226,Promotor,Muito bom
+F00665,Paciente,P00273,Promotor,Confuso
+F00666,Paciente,P00064,Promotor,Demorado
+F00667,Paciente,P00981,Detrator,Fácil de usar
+F00668,Paciente,P00243,Promotor,Faltam recursos
+F00669,Paciente,P01396,Neutro,Confuso
+F00670,Paciente,P00818,Promotor,Ótimo suporte
+F00671,Paciente,P00269,Promotor,Poderia ser mais rápido
+F00672,Paciente,P00043,Promotor,Confuso
+F00673,Paciente,P01024,Promotor,Demorado
+F00674,Paciente,P00106,Promotor,Confuso
+F00675,Paciente,P00879,Detrator,Muito bom
+F00676,Paciente,P00889,Promotor,Fácil de usar
+F00677,Paciente,P00995,Promotor,Ótimo suporte
+F00678,Paciente,P00507,Promotor,Excelente atendimento
+F00679,Paciente,P00510,Promotor,Poderia ser mais rápido
+F00680,Paciente,P00539,Detrator,Demorado
+F00681,Paciente,P01364,Neutro,Demorado
+F00682,Paciente,P00970,Neutro,Poderia ser mais rápido
+F00683,Paciente,P01435,Neutro,Excelente atendimento
+F00684,Paciente,P00386,Detrator,Excelente atendimento
+F00685,Paciente,P00469,Promotor,Ótimo suporte
+F00686,Paciente,P00078,Promotor,Demorado
+F00687,Paciente,P00299,Promotor,Demorado
+F00688,Paciente,P00186,Detrator,Ótimo suporte
+F00689,Paciente,P00834,Promotor,Demorado
+F00690,Paciente,P00454,Promotor,Faltam recursos
+F00691,Paciente,P00125,Promotor,Muito bom
+F00692,Paciente,P00623,Promotor,Confuso
+F00693,Paciente,P00574,Detrator,Ótimo suporte
+F00694,Paciente,P00505,Promotor,Muito bom
+F00695,Paciente,P00372,Promotor,Muito bom
+F00696,Paciente,P01352,Neutro,Demorado
+F00697,Paciente,P00584,Promotor,Poderia ser mais rápido
+F00698,Paciente,P00882,Promotor,Faltam recursos
+F00699,Paciente,P00744,Promotor,Poderia ser mais rápido
+F00700,Paciente,P00198,Promotor,Excelente atendimento
+F00701,Paciente,P00678,Promotor,Confuso
+F00702,Paciente,P01206,Promotor,Confuso
+F00703,Paciente,P00487,Promotor,Demorado
+F00704,Paciente,P01196,Promotor,Poderia ser mais rápido
+F00705,Paciente,P00267,Promotor,Poderia ser mais rápido
+F00706,Paciente,P00084,Promotor,Demorado
+F00707,Paciente,P00395,Neutro,Poderia ser mais rápido
+F00708,Paciente,P00153,Detrator,Confuso
+F00709,Paciente,P00617,Neutro,Demorado
+F00710,Paciente,P01092,Neutro,Muito bom
+F00711,Paciente,P00261,Promotor,Fácil de usar
+F00712,Paciente,P01147,Detrator,Confuso
+F00713,Paciente,P00918,Promotor,Poderia ser mais rápido
+F00714,Paciente,P00893,Promotor,Ótimo suporte
+F00715,Paciente,P01072,Detrator,Muito bom
+F00716,Paciente,P00341,Promotor,Excelente atendimento
+F00717,Paciente,P00593,Promotor,Muito bom
+F00718,Paciente,P01420,Promotor,Ótimo suporte
+F00719,Paciente,P01013,Promotor,Poderia ser mais rápido
+F00720,Paciente,P00338,Promotor,Ótimo suporte
+F00721,Paciente,P01151,Neutro,Ótimo suporte
+F00722,Paciente,P01243,Promotor,Excelente atendimento
+F00723,Paciente,P00007,Promotor,Demorado
+F00724,Paciente,P01212,Promotor,Faltam recursos
+F00725,Paciente,P01031,Neutro,Fácil de usar
+F00726,Paciente,P00621,Detrator,Fácil de usar
+F00727,Paciente,P01450,Promotor,Poderia ser mais rápido
+F00728,Paciente,P00350,Promotor,Demorado
+F00729,Paciente,P00597,Promotor,Excelente atendimento
+F00730,Paciente,P00568,Detrator,Fácil de usar
+F00731,Paciente,P00105,Promotor,Demorado
+F00732,Paciente,P00430,Promotor,Muito bom
+F00733,Paciente,P01328,Promotor,Confuso
+F00734,Paciente,P00664,Promotor,Fácil de usar
+F00735,Paciente,P01478,Promotor,Fácil de usar
+F00736,Paciente,P00664,Detrator,Muito bom
+F00737,Paciente,P00728,Promotor,Fácil de usar
+F00738,Paciente,P00361,Promotor,Muito bom
+F00739,Paciente,P01100,Promotor,Poderia ser mais rápido
+F00740,Paciente,P01479,Neutro,Ótimo suporte
+F00741,Paciente,P01339,Promotor,Demorado
+F00742,Paciente,P00905,Promotor,Fácil de usar
+F00743,Paciente,P00417,Promotor,Ótimo suporte
+F00744,Paciente,P00318,Promotor,Ótimo suporte
+F00745,Paciente,P00754,Promotor,Faltam recursos
+F00746,Paciente,P00191,Promotor,Faltam recursos
+F00747,Paciente,P00378,Neutro,Excelente atendimento
+F00748,Paciente,P00386,Promotor,Excelente atendimento
+F00749,Paciente,P01326,Promotor,Fácil de usar
+F00750,Paciente,P00333,Detrator,Ótimo suporte
+F00751,Paciente,P01407,Promotor,Poderia ser mais rápido
+F00752,Paciente,P00293,Promotor,Demorado
+F00753,Paciente,P00931,Detrator,Ótimo suporte
+F00754,Paciente,P00205,Neutro,Excelente atendimento
+F00755,Paciente,P01488,Neutro,Muito bom
+F00756,Paciente,P01235,Promotor,Ótimo suporte
+F00757,Paciente,P00042,Promotor,Muito bom
+F00758,Paciente,P01319,Detrator,Excelente atendimento
+F00759,Paciente,P00508,Neutro,Fácil de usar
+F00760,Paciente,P00292,Detrator,Muito bom
+F00761,Paciente,P00019,Detrator,Poderia ser mais rápido
+F00762,Paciente,P01110,Neutro,Confuso
+F00763,Paciente,P01448,Promotor,Excelente atendimento
+F00764,Paciente,P00983,Neutro,Faltam recursos
+F00765,Paciente,P00334,Promotor,Faltam recursos
+F00766,Paciente,P00316,Promotor,Fácil de usar
+F00767,Paciente,P01285,Promotor,Muito bom
+F00768,Paciente,P00091,Promotor,Fácil de usar
+F00769,Paciente,P00210,Promotor,Ótimo suporte
+F00770,Paciente,P00290,Promotor,Demorado
+F00771,Paciente,P00049,Promotor,Ótimo suporte
+F00772,Paciente,P00301,Promotor,Fácil de usar
+F00773,Paciente,P00462,Detrator,Ótimo suporte
+F00774,Paciente,P01406,Detrator,Poderia ser mais rápido
+F00775,Paciente,P01007,Promotor,Poderia ser mais rápido
+F00776,Paciente,P00459,Promotor,Fácil de usar
+F00777,Paciente,P00731,Promotor,Confuso
+F00778,Paciente,P00242,Promotor,Poderia ser mais rápido
+F00779,Paciente,P00088,Promotor,Excelente atendimento
+F00780,Paciente,P00877,Promotor,Excelente atendimento
+F00781,Paciente,P01391,Promotor,Fácil de usar
+F00782,Paciente,P01279,Neutro,Confuso
+F00783,Paciente,P00212,Promotor,Faltam recursos
+F00784,Paciente,P01355,Promotor,Fácil de usar
+F00785,Paciente,P01456,Neutro,Muito bom
+F00786,Paciente,P00304,Neutro,Excelente atendimento
+F00787,Paciente,P00655,Promotor,Faltam recursos
+F00788,Paciente,P01477,Neutro,Faltam recursos
+F00789,Paciente,P00137,Promotor,Ótimo suporte
+F00790,Paciente,P01488,Promotor,Poderia ser mais rápido
+F00791,Paciente,P00661,Detrator,Excelente atendimento
+F00792,Paciente,P00788,Promotor,Faltam recursos
+F00793,Paciente,P00868,Promotor,Ótimo suporte
+F00794,Paciente,P01232,Neutro,Confuso
+F00795,Paciente,P00283,Neutro,Demorado
+F00796,Paciente,P00784,Promotor,Faltam recursos
+F00797,Paciente,P01103,Promotor,Demorado
+F00798,Paciente,P00787,Promotor,Ótimo suporte
+F00799,Paciente,P01079,Promotor,Demorado
+F00800,Profissional,CRM00045,Promotor,Muito bom
+F00801,Profissional,CRM00105,Detrator,Muito bom
+F00802,Profissional,CRM00186,Promotor,Excelente atendimento
+F00803,Profissional,CRM00057,Promotor,Confuso
+F00804,Profissional,CRM00185,Neutro,Excelente atendimento
+F00805,Profissional,CRM00151,Promotor,Ótimo suporte
+F00806,Profissional,CRM00125,Promotor,Demorado
+F00807,Profissional,CRM00029,Neutro,Poderia ser mais rápido
+F00808,Profissional,CRM00074,Promotor,Muito bom
+F00809,Profissional,CRM00218,Promotor,Poderia ser mais rápido
+F00810,Profissional,CRP00073,Promotor,Excelente atendimento
+F00811,Profissional,CRM00016,Promotor,Excelente atendimento
+F00812,Profissional,CRM00041,Promotor,Muito bom
+F00813,Profissional,CRP00067,Neutro,Ótimo suporte
+F00814,Profissional,CRM00077,Neutro,Faltam recursos
+F00815,Profissional,CRM00072,Neutro,Fácil de usar
+F00816,Profissional,CRP00016,Promotor,Confuso
+F00817,Profissional,CRP00003,Neutro,Muito bom
+F00818,Profissional,CRM00147,Promotor,Muito bom
+F00819,Profissional,CRM00017,Promotor,Excelente atendimento
+F00820,Profissional,CRP00033,Promotor,Ótimo suporte
+F00821,Profissional,CRM00217,Promotor,Faltam recursos
+F00822,Profissional,CRP00059,Neutro,Fácil de usar
+F00823,Profissional,CRP00068,Promotor,Demorado
+F00824,Profissional,CRM00217,Detrator,Fácil de usar
+F00825,Profissional,CRM00048,Promotor,Excelente atendimento
+F00826,Profissional,CRM00109,Promotor,Muito bom
+F00827,Profissional,CRM00113,Promotor,Poderia ser mais rápido
+F00828,Profissional,CRP00015,Promotor,Ótimo suporte
+F00829,Profissional,CRM00195,Promotor,Confuso
+F00830,Profissional,CRM00218,Promotor,Poderia ser mais rápido
+F00831,Profissional,CRM00054,Promotor,Confuso
+F00832,Profissional,CRM00015,Promotor,Excelente atendimento
+F00833,Profissional,CRP00053,Promotor,Demorado
+F00834,Profissional,CRM00006,Neutro,Fácil de usar
+F00835,Profissional,CRM00097,Promotor,Muito bom
+F00836,Profissional,CRM00124,Promotor,Muito bom
+F00837,Profissional,CRP00064,Detrator,Faltam recursos
+F00838,Profissional,CRM00024,Promotor,Poderia ser mais rápido
+F00839,Profissional,CRM00159,Promotor,Confuso
+F00840,Profissional,CRM00145,Detrator,Demorado
+F00841,Profissional,CRM00162,Neutro,Confuso
+F00842,Profissional,CRM00067,Neutro,Poderia ser mais rápido
+F00843,Profissional,CRM00170,Promotor,Poderia ser mais rápido
+F00844,Profissional,CRP00033,Neutro,Excelente atendimento
+F00845,Profissional,CRM00013,Promotor,Ótimo suporte
+F00846,Profissional,CRP00020,Promotor,Muito bom
+F00847,Profissional,CRM00149,Promotor,Faltam recursos
+F00848,Profissional,CRM00041,Detrator,Poderia ser mais rápido
+F00849,Profissional,CRM00119,Detrator,Excelente atendimento
+F00850,Profissional,CRM00083,Detrator,Confuso
+F00851,Profissional,CRP00005,Neutro,Confuso
+F00852,Profissional,CRM00149,Promotor,Ótimo suporte
+F00853,Profissional,CRM00021,Detrator,Ótimo suporte
+F00854,Profissional,CRM00123,Promotor,Poderia ser mais rápido
+F00855,Profissional,CRM00079,Promotor,Faltam recursos
+F00856,Profissional,CRM00050,Neutro,Excelente atendimento
+F00857,Profissional,CRM00159,Promotor,Poderia ser mais rápido
+F00858,Profissional,CRP00031,Promotor,Confuso
+F00859,Profissional,CRM00087,Detrator,Excelente atendimento
+F00860,Profissional,CRM00035,Promotor,Confuso
+F00861,Profissional,CRM00181,Promotor,Excelente atendimento
+F00862,Profissional,CRP00011,Promotor,Faltam recursos
+F00863,Profissional,CRM00132,Neutro,Faltam recursos
+F00864,Profissional,CRM00072,Detrator,Faltam recursos
+F00865,Profissional,CRM00021,Promotor,Fácil de usar
+F00866,Profissional,CRM00206,Promotor,Excelente atendimento
+F00867,Profissional,CRP00001,Promotor,Confuso
+F00868,Profissional,CRM00192,Promotor,Ótimo suporte
+F00869,Profissional,CRP00035,Promotor,Muito bom
+F00870,Profissional,CRM00030,Neutro,Demorado
+F00871,Profissional,CRP00063,Promotor,Poderia ser mais rápido
+F00872,Profissional,CRM00149,Promotor,Ótimo suporte
+F00873,Profissional,CRM00038,Promotor,Faltam recursos
+F00874,Profissional,CRM00048,Promotor,Faltam recursos
+F00875,Profissional,CRP00049,Detrator,Faltam recursos
+F00876,Profissional,CRM00056,Promotor,Poderia ser mais rápido
+F00877,Profissional,CRM00204,Neutro,Demorado
+F00878,Profissional,CRM00206,Promotor,Confuso
+F00879,Profissional,CRM00176,Detrator,Faltam recursos
+F00880,Profissional,CRM00109,Neutro,Faltam recursos
+F00881,Profissional,CRM00059,Promotor,Muito bom
+F00882,Profissional,CRP00055,Promotor,Faltam recursos
+F00883,Profissional,CRM00075,Promotor,Confuso
+F00884,Profissional,CRP00066,Promotor,Ótimo suporte
+F00885,Profissional,CRM00032,Detrator,Confuso
+F00886,Profissional,CRM00221,Detrator,Demorado
+F00887,Profissional,CRM00028,Promotor,Muito bom
+F00888,Profissional,CRM00217,Promotor,Excelente atendimento
+F00889,Profissional,CRM00043,Promotor,Fácil de usar
+F00890,Profissional,CRM00208,Promotor,Faltam recursos
+F00891,Profissional,CRM00215,Promotor,Fácil de usar
+F00892,Profissional,CRM00095,Neutro,Poderia ser mais rápido
+F00893,Profissional,CRM00220,Promotor,Fácil de usar
+F00894,Profissional,CRM00085,Promotor,Ótimo suporte
+F00895,Profissional,CRP00022,Promotor,Excelente atendimento
+F00896,Profissional,CRM00224,Promotor,Ótimo suporte
+F00897,Profissional,CRM00006,Promotor,Demorado
+F00898,Profissional,CRM00040,Neutro,Excelente atendimento
+F00899,Profissional,CRM00166,Promotor,Confuso
+F00900,Profissional,CRM00008,Promotor,Faltam recursos
+F00901,Profissional,CRM00076,Promotor,Confuso
+F00902,Profissional,CRM00059,Neutro,Ótimo suporte
+F00903,Profissional,CRM00135,Promotor,Muito bom
+F00904,Profissional,CRP00006,Detrator,Excelente atendimento
+F00905,Profissional,CRP00006,Promotor,Poderia ser mais rápido
+F00906,Profissional,CRM00019,Promotor,Demorado
+F00907,Profissional,CRM00216,Promotor,Excelente atendimento
+F00908,Profissional,CRM00194,Promotor,Demorado
+F00909,Profissional,CRM00098,Detrator,Muito bom
+F00910,Profissional,CRM00190,Neutro,Muito bom
+F00911,Profissional,CRM00155,Detrator,Poderia ser mais rápido
+F00912,Profissional,CRP00031,Promotor,Faltam recursos
+F00913,Profissional,CRM00212,Promotor,Confuso
+F00914,Profissional,CRP00053,Promotor,Confuso
+F00915,Profissional,CRM00059,Detrator,Faltam recursos
+F00916,Profissional,CRM00220,Promotor,Excelente atendimento
+F00917,Profissional,CRP00053,Promotor,Fácil de usar
+F00918,Profissional,CRM00224,Promotor,Poderia ser mais rápido
+F00919,Profissional,CRM00045,Neutro,Poderia ser mais rápido
+F00920,Profissional,CRM00046,Promotor,Ótimo suporte
+F00921,Profissional,CRM00054,Promotor,Poderia ser mais rápido
+F00922,Profissional,CRP00003,Promotor,Muito bom
+F00923,Profissional,CRM00149,Detrator,Demorado
+F00924,Profissional,CRM00115,Neutro,Ótimo suporte
+F00925,Profissional,CRM00059,Promotor,Faltam recursos
+F00926,Profissional,CRM00064,Promotor,Faltam recursos
+F00927,Profissional,CRM00212,Detrator,Ótimo suporte
+F00928,Profissional,CRM00004,Detrator,Demorado
+F00929,Profissional,CRP00035,Promotor,Fácil de usar
+F00930,Profissional,CRM00158,Neutro,Ótimo suporte
+F00931,Profissional,CRM00124,Promotor,Ótimo suporte
+F00932,Profissional,CRM00017,Promotor,Excelente atendimento
+F00933,Profissional,CRM00192,Neutro,Confuso
+F00934,Profissional,CRM00172,Promotor,Ótimo suporte
+F00935,Profissional,CRM00124,Promotor,Ótimo suporte
+F00936,Profissional,CRM00099,Promotor,Ótimo suporte
+F00937,Profissional,CRM00027,Neutro,Ótimo suporte
+F00938,Profissional,CRM00066,Detrator,Ótimo suporte
+F00939,Profissional,CRM00089,Promotor,Confuso
+F00940,Profissional,CRP00040,Promotor,Demorado
+F00941,Profissional,CRM00051,Neutro,Excelente atendimento
+F00942,Profissional,CRP00034,Promotor,Ótimo suporte
+F00943,Profissional,CRM00134,Neutro,Excelente atendimento
+F00944,Profissional,CRM00166,Promotor,Poderia ser mais rápido
+F00945,Profissional,CRM00014,Promotor,Excelente atendimento
+F00946,Profissional,CRM00015,Promotor,Poderia ser mais rápido
+F00947,Profissional,CRP00068,Promotor,Excelente atendimento
+F00948,Profissional,CRP00008,Promotor,Confuso
+F00949,Profissional,CRM00096,Promotor,Demorado
+F00950,Profissional,CRM00153,Promotor,Demorado
+F00951,Profissional,CRM00194,Neutro,Muito bom
+F00952,Profissional,CRM00141,Promotor,Excelente atendimento
+F00953,Profissional,CRM00012,Promotor,Poderia ser mais rápido
+F00954,Profissional,CRM00057,Promotor,Poderia ser mais rápido
+F00955,Profissional,CRM00055,Promotor,Fácil de usar
+F00956,Profissional,CRM00093,Promotor,Faltam recursos
+F00957,Profissional,CRM00186,Detrator,Demorado
+F00958,Profissional,CRM00201,Promotor,Muito bom
+F00959,Profissional,CRM00212,Promotor,Poderia ser mais rápido
+F00960,Profissional,CRM00108,Promotor,Ótimo suporte
+F00961,Profissional,CRM00161,Promotor,Faltam recursos
+F00962,Profissional,CRM00083,Promotor,Muito bom
+F00963,Profissional,CRM00092,Promotor,Muito bom
+F00964,Profissional,CRM00061,Detrator,Confuso
+F00965,Profissional,CRP00023,Detrator,Muito bom
+F00966,Profissional,CRM00082,Promotor,Fácil de usar
+F00967,Profissional,CRM00063,Promotor,Muito bom
+F00968,Profissional,CRP00050,Promotor,Excelente atendimento
+F00969,Profissional,CRM00111,Detrator,Poderia ser mais rápido
+F00970,Profissional,CRM00112,Promotor,Excelente atendimento
+F00971,Profissional,CRM00113,Promotor,Excelente atendimento
+F00972,Profissional,CRM00138,Promotor,Demorado
+F00973,Profissional,CRM00048,Promotor,Fácil de usar
+F00974,Profissional,CRP00015,Neutro,Faltam recursos
+F00975,Profissional,CRM00224,Promotor,Ótimo suporte
+F00976,Profissional,CRM00099,Promotor,Demorado
+F00977,Profissional,CRM00144,Detrator,Poderia ser mais rápido
+F00978,Profissional,CRP00074,Neutro,Fácil de usar
+F00979,Profissional,CRM00085,Neutro,Faltam recursos
+F00980,Profissional,CRM00222,Detrator,Ótimo suporte
+F00981,Profissional,CRM00140,Neutro,Poderia ser mais rápido
+F00982,Profissional,CRM00197,Promotor,Confuso
+F00983,Profissional,CRM00192,Detrator,Poderia ser mais rápido
+F00984,Profissional,CRP00006,Promotor,Muito bom
+F00985,Profissional,CRP00037,Promotor,Ótimo suporte
+F00986,Profissional,CRM00151,Promotor,Confuso
+F00987,Profissional,CRM00204,Promotor,Excelente atendimento
+F00988,Profissional,CRM00166,Promotor,Excelente atendimento
+F00989,Profissional,CRM00184,Promotor,Demorado
+F00990,Profissional,CRM00191,Promotor,Confuso
+F00991,Profissional,CRM00063,Promotor,Muito bom
+F00992,Profissional,CRM00169,Promotor,Confuso
+F00993,Profissional,CRM00120,Promotor,Ótimo suporte
+F00994,Profissional,CRM00146,Promotor,Demorado
+F00995,Profissional,CRM00053,Promotor,Poderia ser mais rápido
+F00996,Profissional,CRP00069,Detrator,Ótimo suporte
+F00997,Profissional,CRM00223,Promotor,Confuso
+F00998,Profissional,CRM00102,Promotor,Faltam recursos
+F00999,Profissional,CRP00031,Promotor,Fácil de usar

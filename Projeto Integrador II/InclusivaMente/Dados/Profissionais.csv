@@ -1,0 +1,301 @@
+Codigo_Profissional,Nome,Especialidade,Cidade,Estado,Endereco,Origem_Cadastro,Codigo_Indicacao
+CRM00000,Dra. Nicole Machado,Neurologista,Sorocaba,SP,"Campo de Pacheco, 70, Vila Nossa Senhora Do Rosário, 27561040 Melo do Oeste / BA",Orgânico,
+CRM00001,Dr. Theodoro da Mata,Pediatra,Niterói,SP,"Esplanada Yuri Marques, Boa União 1ª Seção, 56938-651 Alves / MT",Orgânico,CRM00000
+CRM00002,Daniel Fogaça,Neurologista,Bauru,SP,"Recanto Montenegro, 84, Vila São Dimas, 01696-202 Correia / MG",Outro,
+CRP00003,Samuel Alves,Psicólogo,Uberlândia,RJ,"Viela Novais, 4, Xodo-Marize, 89562-354 Fonseca / RS",Orgânico,CRM00001
+CRM00004,Enrico Pastor,Pediatra,Montes Claros,MG,"Setor Kamilly Câmara, 659, Cinquentenário, 05004-510 Ramos das Flores / SP",Google,
+CRM00005,Alice Freitas,Pediatra,Belo Horizonte,RJ,"Travessa Levi Ramos, 93, Bonfim, 88322-570 Camargo / AM",Orgânico,
+CRP00006,Ágatha Souza,Psicólogo,São Paulo,SP,"Área de Castro, 992, Santo Agostinho, 49896569 Silva / PR",Outro,
+CRM00007,Brenda Teixeira,Neurologista,Juiz de Fora,SP,"Sítio de Sampaio, 26, Vila Pinho, 53833664 Pastor do Oeste / MA",Facebook,
+CRM00008,Larissa da Conceição,Psiquiatra,Rio de Janeiro,MG,"Via João Miguel Lopes, 58, Xodo-Marize, 66115-568 Jesus / AC",Google,CRP00006
+CRM00009,Maria Isis das Neves,Pediatra,Itu,SP,"Rodovia Marina Lima, 20, Pongelupe, 96147307 Nogueira do Sul / BA",Facebook,
+CRP00010,Sara Siqueira,Psicólogo,Salto,RJ,"Aeroporto Camargo, 596, Morro Dos Macacos, 21745-658 Costa da Prata / PA",Instagram,
+CRP00011,Laís da Rosa,Psicólogo,Campinas,RJ,"Alameda de Rios, 58, Camargos, 57955-738 Fernandes / RS",Instagram,
+CRM00012,Milena Oliveira,Pediatra,Contagem,MG,"Rua Barros, 26, Corumbiara, 23276391 Silva da Mata / SP",Orgânico,
+CRM00013,Sara Costela,Pediatra,Santos,MG,"Quadra de Rodrigues, 75, Jardim Leblon, 18175-340 Caldeira Verde / RS",Google,
+CRM00014,Maysa Vargas,Pediatra,Salto,RJ,"Residencial Dias, Nova Gameleira, 44060210 Gomes / TO",Indicação,
+CRM00015,Pedro Pimenta,Pediatra,Salto,MG,"Recanto Luan Vargas, 48, Ermelinda, 26373196 da Rosa / DF",Google,
+CRM00016,Sarah Barbosa,Psiquiatra,Araçoiaba da Serra,MG,"Praça Melo, Satelite, 26715-691 Silveira dos Dourados / SE",Orgânico,
+CRM00017,Brayan Castro,Psiquiatra,Rio de Janeiro,MG,"Jardim de Rodrigues, 24, Santo Agostinho, 46071-500 Porto das Flores / MS",Instagram,CRM00009
+CRM00018,Yan Farias,Neurologista,Votorantim,MG,"Jardim Duarte, Milionario, 86859-222 Sousa / AL",Facebook,CRP00003
+CRM00019,Matheus Vieira,Neurologista,Bauru,MG,"Vale de Mendes, 24, Jardim Montanhês, 20180-342 Silva / MG",Google,
+CRM00020,Dra. Nina Cavalcanti,Neurologista,São Paulo,SP,"Ladeira Silveira, 96, Pongelupe, 81796211 Mendes do Campo / BA",Facebook,
+CRM00021,Asafe da Luz,Pediatra,Nova Iguaçu,RJ,"Rodovia Rael Gonçalves, 99, Acaba Mundo, 66581366 Cavalcante / SP",Facebook,
+CRM00022,Arthur Miguel Nogueira,Pediatra,Santos,SP,"Viela Alves, 41, Ipiranga, 50963994 Novaes de Correia / MA",Indicação,
+CRM00023,Ana Sophia Sales,Neurologista,São José dos Campos,MG,"Viela Sá, 824, Jardim Vitoria, 79434441 Freitas de Garcia / PA",Google,
+CRM00024,Aurora Peixoto,Pediatra,Contagem,SP,"Fazenda Cavalcante, 39, Vila Atila De Paiva, 01976-103 Caldeira / MG",Indicação,
+CRM00025,Sr. Raul Cassiano,Neurologista,Bauru,MG,"Viela Bernardo Sales, 21, Vila Atila De Paiva, 88309045 Gonçalves / RO",Orgânico,
+CRP00026,Ester Peixoto,Psicólogo,Belo Horizonte,RJ,"Aeroporto da Mata, 20, Serra Do Curral, 90527-311 Gonçalves de Ferreira / PA",Orgânico,CRM00024
+CRM00027,Ester Cirino,Psiquiatra,Araçoiaba da Serra,MG,"Rodovia Gomes, Nova Vista, 03841-019 Pacheco da Serra / CE",Indicação,
+CRM00028,João Pacheco,Pediatra,Itu,MG,"Jardim Vinicius Alves, 26, Barro Preto, 92220-976 Nogueira das Flores / AP",Instagram,
+CRP00029,Esther Souza,Psicólogo,Campinas,RJ,"Vila Isaac da Rocha, 22, Vila União, 72456051 Araújo / PE",Indicação,
+CRP00030,Ana Carolina Novaes,Psicólogo,Araçoiaba da Serra,SP,"Rodovia André Moura, Santa Inês, 35384732 Cassiano do Norte / RR",Orgânico,
+CRM00031,Dr. Bento Souza,Pediatra,Uberlândia,RJ,"Travessa Evelyn Pacheco, 85, Alto Vera Cruz, 27929-046 Azevedo / SC",Indicação,
+CRP00032,Cecília Barros,Psicólogo,Juiz de Fora,MG,"Estação Sampaio, 71, Santa Cecilia, 67270224 Andrade / SE",Indicação,CRM00001
+CRP00033,Oliver Castro,Psicólogo,Araçoiaba da Serra,SP,"Favela de Albuquerque, São Sebastião, 20914319 Nascimento / SE",Orgânico,
+CRM00034,Bernardo Viana,Psiquiatra,Niterói,RJ,"Chácara Rocha, 9, Unidas, 30731397 Nunes / PI",Instagram,CRM00018
+CRM00035,Olivia Cavalcanti,Neurologista,Araçoiaba da Serra,MG,"Favela Souza, 5, Comiteco, 87680900 Rocha de Sousa / PB",Indicação,
+CRP00036,Mariane da Paz,Psicólogo,Montes Claros,RJ,"Quadra Bernardo Pereira, 68, Confisco, 39913-854 Câmara / AM",Google,CRM00017
+CRM00037,Sra. Joana da Cunha,Neurologista,Volta Redonda,MG,"Condomínio de Vieira, 554, Conjunto Novo Dom Bosco, 34402588 Vieira Alegre / AP",Google,
+CRP00038,Vinicius Moura,Psicólogo,Belo Horizonte,RJ,"Praia Brito, 9, Vila Esplanada, 48531-599 da Paz das Flores / RR",Google,CRM00037
+CRM00039,Pietro Rodrigues,Neurologista,Santos,RJ,"Jardim Melina Monteiro, 45, Santana Do Cafezal, 76835324 Moura de Barros / SE",Orgânico,CRM00031
+CRM00040,Srta. Alexia Ribeiro,Psiquiatra,Araçoiaba da Serra,SP,"Distrito Ian Pereira, 597, Vila São Rafael, 69316-815 Gomes / MA",Instagram,
+CRM00041,Bruna Silva,Neurologista,Volta Redonda,MG,"Vereda da Mata, 25, Universo, 49230-661 Camargo / PR",Outro,CRM00004
+CRM00042,Júlia Viana,Neurologista,Volta Redonda,SP,"Esplanada Vitor Gabriel Jesus, 41, Beira Linha, 47390-875 Fernandes / PI",Google,
+CRM00043,Gabrielly Castro,Psiquiatra,Salto,SP,"Viaduto Eloah Camargo, 43, Betânia, 95432-324 Nunes de Goiás / MS",Indicação,CRP00032
+CRP00044,Sr. Otto Pimenta,Psicólogo,Votorantim,MG,"Estrada de Ribeiro, 87, Vila União, 04397188 Casa Grande dos Dourados / AM",Google,CRP00030
+CRM00045,Sra. Mariana Dias,Psiquiatra,Nova Iguaçu,SP,"Núcleo Pedro Henrique Vieira, 528, Alta Tensão 2ª Seção, 47696454 Abreu das Pedras / MG",Instagram,
+CRP00046,Letícia Cassiano,Psicólogo,Volta Redonda,RJ,"Rodovia Correia, 49, Acaiaca, 11872139 Siqueira / AC",Google,
+CRM00047,Arthur Miguel Sales,Neurologista,Araçoiaba da Serra,SP,"Praça Carolina Machado, 93, Novo Santa Cecilia, 60186191 Vargas / SC",Outro,
+CRM00048,Júlia Araújo,Psiquiatra,Nova Iguaçu,RJ,"Setor Benício Viana, 91, Esplanada, 04773-503 Moraes / SE",Facebook,
+CRM00049,Liz Pastor,Pediatra,Salto,MG,"Campo Hellena Câmara, 92, Juliana, 63366-023 Casa Grande de Minas / PR",Orgânico,
+CRM00050,Catarina Caldeira,Pediatra,Contagem,MG,"Estação de Nascimento, 113, Zilah Sposito, 10271-905 da Luz / PB",Outro,
+CRP00051,Mariah Rios,Psicólogo,Juiz de Fora,MG,"Parque João Lucas da Cruz, 50, Pilar, 68854-346 Duarte do Galho / BA",Facebook,CRP00029
+CRM00052,Luna da Luz,Neurologista,Contagem,RJ,"Recanto Costela, 13, Araguaia, 04716623 Rezende da Serra / MS",Google,
+CRM00053,Augusto Campos,Neurologista,Volta Redonda,RJ,"Vereda de Borges, 140, Campo Alegre, 29520781 Siqueira de Ribeiro / MA",Indicação,CRM00022
+CRM00054,Kevin Gomes,Psiquiatra,Montes Claros,MG,"Via Renan Machado, 8, Ápia, 37375-143 da Costa Alegre / MS",Instagram,CRP00010
+CRM00055,Sra. Mariane Sousa,Pediatra,Niterói,RJ,"Viela Nascimento, 77, Mirtes, 09749091 Garcia / AM",Facebook,
+CRP00056,Heloisa Freitas,Psicólogo,Itu,RJ,"Lagoa Brito, 559, Barreiro, 48965608 Gomes Verde / MS",Facebook,
+CRM00057,João Gabriel Peixoto,Pediatra,Duque de Caxias,RJ,"Vila de Nunes, 67, Marilandia, 12340-015 Cavalcanti / RN",Instagram,
+CRM00058,Juan Alves,Psiquiatra,Bauru,MG,"Recanto Lopes, 59, Conjunto Novo Dom Bosco, 12172209 Câmara Paulista / CE",Indicação,CRM00053
+CRP00059,Apollo Moreira,Psicólogo,Rio de Janeiro,MG,"Viela Peixoto, 857, Vila Oeste, 34137-230 Câmara de Dias / PR",Orgânico,
+CRM00060,Heitor Gomes,Pediatra,Belo Horizonte,SP,"Quadra Thomas Oliveira, 68, Dona Clara, 25853-559 Campos Alegre / GO",Orgânico,
+CRM00061,João Vitor da Cruz,Pediatra,Volta Redonda,RJ,"Feira Ágatha Monteiro, Cdi Jatoba, 30884-860 da Luz do Campo / MA",Indicação,CRM00001
+CRM00062,Eduardo Fonseca,Psiquiatra,Salto,SP,"Parque de Pacheco, 83, Lindéia, 90155-088 Lima / DF",Outro,CRP00059
+CRP00063,Maitê Moreira,Psicólogo,São José dos Campos,MG,"Morro Anthony Gabriel Pires, 72, Mantiqueira, 70476809 Gonçalves da Prata / ES",Outro,
+CRM00064,Sr. Luiz Gustavo Brito,Neurologista,Contagem,SP,"Alameda Luiz Otávio Marques, 55, Vila Califórnia, 01429-503 Lima / RJ",Indicação,
+CRM00065,Mateus Nogueira,Neurologista,São Paulo,RJ,"Distrito Caldeira, 1, Inconfidência, 49804-606 Correia da Mata / RS",Google,CRM00009
+CRP00066,Hadassa Almeida,Psicólogo,Volta Redonda,MG,"Estrada Ana Luiza Pereira, 7, Minas Brasil, 55773904 Fernandes da Mata / DF",Outro,
+CRM00067,Ester Câmara,Psiquiatra,Salto,MG,"Vereda de Viana, Engenho Nogueira, 21081103 Melo de Correia / SC",Outro,
+CRM00068,Amanda Andrade,Psiquiatra,Duque de Caxias,RJ,"Sítio Pietra Brito, 868, Silveira, 66688433 Lopes / MT",Orgânico,CRP00032
+CRP00069,Vitor Hugo Cunha,Psicólogo,Bauru,MG,"Viaduto Cirino, 52, Venda Nova, 14054393 Garcia do Galho / RN",Facebook,CRM00020
+CRP00070,Julia Mendes,Psicólogo,Santos,RJ,"Feira Anna Liz Cunha, 62, Vila Nova Gameleira 3ª Seção, 15358496 Almeida / AL",Google,
+CRM00071,Fernando Câmara,Neurologista,Votorantim,SP,"Condomínio Silveira, 926, Horto, 01738-555 Fogaça do Norte / MS",Facebook,
+CRM00072,Yago Borges,Pediatra,Duque de Caxias,MG,"Parque de Borges, 72, Vila Tirol, 24436-770 Pires de Minas / AP",Orgânico,
+CRM00073,Theodoro Aparecida,Pediatra,Niterói,SP,"Via Gonçalves, 29, Dom Cabral, 97489-564 Freitas / BA",Indicação,CRP00026
+CRP00074,Maitê Souza,Psicólogo,Uberlândia,RJ,"Residencial Davi Miguel Abreu, Marieta 1ª Seção, 72565633 Costa de da Cunha / DF",Instagram,
+CRM00075,Yago Novaes,Psiquiatra,Montes Claros,SP,"Alameda Teixeira, 1, Conjunto Minas Caixa, 20127-760 Gonçalves Grande / MS",Indicação,
+CRM00076,Maria Eduarda Teixeira,Neurologista,Itu,RJ,"Lago Ana Cecília Camargo, 3, Vila Ouro Minas, 84217-274 Barbosa / RR",Facebook,
+CRM00077,Jade Araújo,Pediatra,Salto,SP,"Sítio Erick Costa, 27, Olhos D'água, 68498991 Gomes / ES",Indicação,CRM00076
+CRM00078,Dra. Carolina Machado,Pediatra,São José dos Campos,SP,"Morro Catarina Abreu, Tupi B, 33309-870 Moraes / CE",Instagram,
+CRM00079,Sra. Eloá Pastor,Pediatra,Uberlândia,MG,"Residencial Araújo, 89, Vila Betânia, 44463464 da Cunha de Nunes / PA",Google,
+CRM00080,Sr. Josué Brito,Psiquiatra,Itu,MG,"Núcleo Cardoso, Anchieta, 18159588 Castro / DF",Orgânico,
+CRM00081,Valentina Jesus,Pediatra,Volta Redonda,MG,"Viaduto de Novaes, Conjunto Paulo Vi, 23511395 Cavalcanti / MT",Google,
+CRM00082,Sra. Laura Fonseca,Neurologista,Rio de Janeiro,RJ,"Chácara Melo, Nossa Senhora Da Aparecida, 01324707 Araújo / PE",Instagram,
+CRM00083,João Vitor Barros,Neurologista,Juiz de Fora,MG,"Praia Fogaça, 64, Vila Ipiranga, 51733-016 Sampaio Paulista / TO",Instagram,CRM00007
+CRM00084,Mirella Gonçalves,Psiquiatra,Nova Iguaçu,SP,"Chácara de Freitas, 716, Cruzeiro, 51728-642 Vargas / DF",Outro,
+CRM00085,Ana Júlia Camargo,Neurologista,Rio de Janeiro,SP,"Lagoa Mendes, 32, Venda Nova, 53196-516 Vieira da Mata / TO",Google,
+CRM00086,Yan Ribeiro,Neurologista,Itu,MG,"Ladeira Antônio Alves, 953, Vila Paraíso, 94207961 Pires / RN",Indicação,
+CRM00087,Ágatha Vieira,Neurologista,Rio de Janeiro,RJ,"Travessa de Sampaio, 4, Caiçara - Adelaide, 87087815 da Luz de Sales / RJ",Facebook,CRM00005
+CRM00088,Bárbara Lima,Neurologista,Rio de Janeiro,SP,"Largo Luana Melo, Baleia, 67885-168 Almeida / DF",Orgânico,CRP00044
+CRP00089,Maria Eduarda Casa Grande,Psicólogo,Bauru,MG,"Lagoa de Araújo, 6, Sion, 15068-985 Caldeira / PI",Facebook,CRM00007
+CRM00090,Ayla Barros,Neurologista,Nova Iguaçu,SP,"Setor Mariana Costa, 18, Senhor Dos Passos, 14966-757 Sampaio / MG",Orgânico,
+CRM00091,Luiza da Rocha,Neurologista,Rio de Janeiro,RJ,"Colônia Viana, 34, Vila Jardim São José, 83969-957 Câmara / TO",Google,
+CRP00092,Maria Martins,Psicólogo,Araçoiaba da Serra,RJ,"Praça Novaes, Jardim Felicidade, 12240-238 Nascimento de Pimenta / RO",Indicação,
+CRM00093,Augusto Costa,Psiquiatra,Montes Claros,SP,"Quadra de Gonçalves, 5, Acaba Mundo, 26292-259 Costa dos Dourados / PA",Google,
+CRM00094,Dante Abreu,Pediatra,Santos,MG,"Praia Cardoso, 12, Oeste, 75490-597 Almeida / ES",Instagram,
+CRM00095,Luna Rios,Neurologista,São José dos Campos,SP,"Núcleo Davi Montenegro, 730, Serra Do Curral, 94817049 Mendonça Grande / RJ",Google,
+CRM00096,Davi Luiz Machado,Psiquiatra,Nova Iguaçu,MG,"Praça Cunha, 99, Vila São Rafael, 04720288 Cunha / RJ",Orgânico,CRM00001
+CRM00097,Raquel Abreu,Psiquiatra,Itu,SP,"Campo Dias, 34, Horto Florestal, 31029-932 Almeida / DF",Google,CRM00023
+CRM00098,Olivia Rezende,Pediatra,Belo Horizonte,SP,"Área Pastor, 55, Cônego Pinheiro 2ª Seção, 09831-818 da Costa / SP",Instagram,
+CRM00099,Gabriel Alves,Psiquiatra,Araçoiaba da Serra,MG,"Setor Ísis Ramos, Esperança, 54508275 Moreira da Praia / PI",Orgânico,
+CRM00100,Thales da Mota,Neurologista,Itu,RJ,"Praia de da Luz, 422, Conjunto Novo Dom Bosco, 42504-647 Sampaio / TO",Google,CRP00069
+CRM00101,Dra. Raquel da Rocha,Psiquiatra,Uberlândia,MG,"Setor Yasmin da Rosa, 7, Olaria, 24501160 Castro / SE",Facebook,
+CRM00102,Júlia Santos,Pediatra,Nova Iguaçu,MG,"Colônia de Brito, 80, Nazare, 10969262 Garcia / PI",Instagram,
+CRM00103,Ravy Cirino,Psiquiatra,São Paulo,RJ,"Parque Correia, 5, Bernadete, 92443295 Abreu da Praia / SE",Instagram,
+CRM00104,Vitória Sampaio,Neurologista,Uberlândia,SP,"Travessa Gonçalves, 8, Conjunto Paulo Vi, 72731-889 Andrade de Lopes / AL",Indicação,
+CRP00105,João Felipe Gomes,Psicólogo,Itu,MG,"Praia da Paz, Funcionários, 57199-167 da Paz / RR",Facebook,
+CRM00106,Brayan da Cunha,Psiquiatra,Nova Iguaçu,MG,"Ladeira Alves, Piraja, 36649290 Araújo de Correia / PE",Facebook,CRP00092
+CRM00107,João Vitor Cavalcanti,Psiquiatra,São José dos Campos,SP,"Fazenda de Siqueira, Heliopolis, 47064922 Dias / RR",Outro,
+CRP00108,Aylla Leão,Psicólogo,Sorocaba,SP,"Ladeira Montenegro, Horto, 24143-456 Jesus das Flores / DF",Indicação,
+CRM00109,Rafaela Barros,Pediatra,Duque de Caxias,MG,"Conjunto Siqueira, 7, Dona Clara, 57599794 Dias de Guerra / PB",Indicação,
+CRM00110,Dr. João Lucas Garcia,Neurologista,São Paulo,SP,"Passarela Lunna da Cunha, 513, Vila Maria, 69403242 Camargo / PA",Orgânico,
+CRM00111,Sra. Maria Costa,Neurologista,Contagem,MG,"Lago de Silveira, 22, Jatobá, 10049-835 Aragão / MT",Indicação,CRP00026
+CRP00112,Beatriz Teixeira,Psicólogo,Juiz de Fora,SP,"Campo Ana Guerra, 205, São Jorge 1ª Seção, 76539790 Duarte / PB",Orgânico,CRM00039
+CRM00113,Helena Teixeira,Neurologista,Uberlândia,RJ,"Setor Aragão, Santa Isabel, 09503-545 Costela / PA",Google,
+CRM00114,Arthur Miguel Cardoso,Pediatra,Duque de Caxias,MG,"Distrito de Sales, 9, Lorena, 03121-559 Oliveira da Praia / RJ",Facebook,
+CRM00115,João Felipe Azevedo,Pediatra,Volta Redonda,RJ,"Passarela Camila Duarte, Castelo, 60181170 Cardoso / PI",Indicação,
+CRM00116,Josué Cassiano,Neurologista,Nova Iguaçu,SP,"Estrada de Gonçalves, 5, Horto Florestal, 79216514 Azevedo / AM",Indicação,
+CRM00117,Nicolas Novaes,Pediatra,Montes Claros,RJ,"Condomínio Isaac Monteiro, 17, Conjunto Paulo Vi, 53845035 Pires Verde / RN",Indicação,
+CRM00118,Nicole Câmara,Pediatra,Contagem,SP,"Colônia de Cassiano, 4, Vista Do Sol, 24346662 Costa / RR",Indicação,
+CRM00119,Emanuelly Barros,Psiquiatra,Sorocaba,SP,"Ladeira de da Luz, 7, Acaba Mundo, 46120584 da Cunha dos Dourados / MS",Instagram,
+CRM00120,Guilherme Lima,Pediatra,São José dos Campos,SP,"Lago Pietra Caldeira, Centro, 35333694 Macedo / MS",Orgânico,CRM00073
+CRP00121,Theodoro Alves,Psicólogo,Volta Redonda,SP,"Morro de Gomes, 38, Madri, 48386-861 Costa / RO",Instagram,
+CRM00122,Dr. Alexandre Fernandes,Pediatra,Volta Redonda,RJ,"Área Sampaio, 307, Serrano, 85636-667 Brito / DF",Google,CRM00072
+CRM00123,Maria Luiza Souza,Pediatra,Campinas,MG,"Passarela de da Cruz, 88, Madre Gertrudes, 70112-143 Pereira do Oeste / RN",Indicação,
+CRP00124,José Pedro Castro,Psicólogo,Montes Claros,SP,"Distrito de Vieira, 681, São Bento, 59604-028 da Paz de das Neves / PB",Google,
+CRP00125,Allana Gomes,Psicólogo,Nova Iguaçu,RJ,"Favela da Costa, 97, João Pinheiro, 99244235 Guerra / PI",Facebook,
+CRM00126,Luana Cunha,Neurologista,Volta Redonda,MG,"Viaduto Pinto, 70, Vila Mantiqueira, 63823919 Pacheco / MA",Orgânico,
+CRM00127,Sarah Rodrigues,Neurologista,Campinas,MG,"Jardim Eloah Leão, 4, Vila Engenho Nogueira, 86865927 Moreira do Campo / TO",Instagram,
+CRM00128,Emanuelly Pereira,Pediatra,Rio de Janeiro,MG,"Lago Raquel Cardoso, 27, Serrano, 91199-413 da Rosa da Mata / RO",Facebook,CRP00044
+CRM00129,Olivia Castro,Psiquiatra,Votorantim,RJ,"Rodovia de da Paz, Santa Efigênia, 01470-823 Rodrigues / RJ",Facebook,CRM00009
+CRM00130,Brenda Melo,Psiquiatra,Niterói,RJ,"Setor de Carvalho, 344, Paquetá, 80455912 Camargo da Serra / AM",Indicação,
+CRM00131,Pietra das Neves,Neurologista,São José dos Campos,RJ,"Núcleo Lavínia Sá, 66, Casa Branca, 70470237 Rezende / RR",Google,
+CRM00132,Luiz Miguel Almeida,Pediatra,Sorocaba,MG,"Estação de Camargo, 40, Sagrada Família, 81397-951 Porto da Serra / RR",Outro,
+CRM00133,Marcelo Cassiano,Pediatra,Votorantim,RJ,"Núcleo Natália Nunes, Piratininga, 35919988 Vasconcelos da Praia / CE",Orgânico,CRM00027
+CRM00134,Eduardo Pimenta,Neurologista,Montes Claros,RJ,"Estação Fonseca, 684, Senhor Dos Passos, 54220-548 Cavalcanti de Viana / SE",Google,
+CRM00135,Brenda Cirino,Psiquiatra,Belo Horizonte,SP,"Feira Rezende, 83, Álvaro Camargos, 32300-171 Fogaça do Amparo / SE",Orgânico,
+CRP00136,Esther Cardoso,Psicólogo,Juiz de Fora,SP,"Passarela Jesus, 61, Vila Madre Gertrudes 2ª Seção, 74863-747 da Costa / RS",Instagram,CRM00083
+CRM00137,Heitor Jesus,Pediatra,Juiz de Fora,MG,"Praça de Rios, 3, Mirante, 17584-053 Nascimento / RS",Outro,
+CRM00138,Maria Luísa Farias,Pediatra,Sorocaba,RJ,"Rodovia Moraes, 26, Parque São José, 74600341 Teixeira / MS",Facebook,
+CRM00139,Emanuella Moura,Pediatra,Duque de Caxias,SP,"Núcleo Borges, Providencia, 99497450 Pereira / PR",Google,CRM00054
+CRM00140,Paulo da Mata,Pediatra,Niterói,RJ,"Recanto de Ribeiro, Biquinhas, 53461155 Cirino Paulista / RS",Orgânico,
+CRM00141,Davi Miguel Macedo,Psiquiatra,Duque de Caxias,MG,"Núcleo Novaes, Bela Vitoria, 30839531 Vargas / PA",Google,
+CRM00142,Luna Porto,Psiquiatra,Itu,MG,"Distrito Sá, 64, Vila Tirol, 89607137 Gomes dos Dourados / AC",Google,
+CRM00143,Ana Liz Gomes,Psiquiatra,Niterói,RJ,"Loteamento Silva, 7, Jardim Dos Comerciarios, 51183284 Sampaio / SC",Orgânico,
+CRP00144,Juan Silveira,Psicólogo,Salto,RJ,"Vale Asafe da Mata, Dom Cabral, 53173246 Ferreira / RO",Orgânico,
+CRP00145,Sr. Eduardo da Rocha,Psicólogo,Niterói,RJ,"Jardim Barros, Jardim Guanabara, 26892658 Duarte / RS",Orgânico,
+CRM00146,Ravy da Costa,Pediatra,Duque de Caxias,SP,"Via de Pimenta, 98, Laranjeiras, 06945-684 Aragão de Pereira / DF",Instagram,
+CRM00147,Marcelo Mendonça,Pediatra,Uberlândia,SP,"Colônia de Cirino, 59, Santa Rosa, 94930-784 Marques do Galho / GO",Facebook,
+CRM00148,Bento Sousa,Neurologista,São José dos Campos,RJ,"Avenida Mendes, 51, Vila Das Oliveiras, 50286-011 Macedo / PA",Indicação,
+CRP00149,Ana Lívia Andrade,Psicólogo,Itu,MG,"Trevo de Nogueira, 4, Pousada Santo Antonio, 11047084 Sampaio Paulista / GO",Instagram,
+CRM00150,Sr. Davi Luiz Ferreira,Neurologista,Rio de Janeiro,MG,"Chácara Sales, 6, Boa União 1ª Seção, 09452658 Barbosa / PA",Orgânico,CRM00107
+CRM00151,Dr. Caio da Rosa,Psiquiatra,Araçoiaba da Serra,RJ,"Aeroporto de Abreu, 9, Santo André, 64143-772 Cavalcanti / PE",Orgânico,CRM00104
+CRM00152,Dr. Paulo Viana,Psiquiatra,São Paulo,RJ,"Travessa Ravi Fogaça, Jardim Do Vale, 07327619 da Costa / PB",Instagram,
+CRM00153,Milena da Cruz,Neurologista,Juiz de Fora,SP,"Esplanada Dias, Vila Madre Gertrudes 2ª Seção, 75933585 Sales / MS",Indicação,
+CRM00154,Ana Lívia Pires,Psiquiatra,Rio de Janeiro,RJ,"Área Asafe Monteiro, 86, Chácara Leonina, 97988118 Brito / SP",Outro,
+CRM00155,Srta. Maysa Garcia,Psiquiatra,Montes Claros,SP,"Travessa de Fonseca, 88, Vila São Gabriel, 42537769 Mendes de Goiás / BA",Google,CRM00107
+CRM00156,Dr. Matteo Garcia,Pediatra,Rio de Janeiro,RJ,"Aeroporto Luiz Gustavo Novaes, 83, Aparecida, 38057121 Sousa das Pedras / CE",Outro,CRM00008
+CRP00157,Maria Isis Rocha,Psicólogo,Campinas,SP,"Vila de Cirino, 53, Conjunto Minas Caixa, 42685446 Pires / RS",Google,CRM00135
+CRP00158,Maria Luiza Montenegro,Psicólogo,Uberlândia,MG,"Trevo de Viana, 22, Vila Barragem Santa Lúcia, 33044217 Costela da Mata / RR",Facebook,
+CRM00159,Manuella Leão,Psiquiatra,Bauru,RJ,"Aeroporto Alice das Neves, 52, Alto Dos Pinheiros, 41631-664 Mendonça / AL",Google,
+CRM00160,Bento Câmara,Pediatra,Volta Redonda,RJ,"Alameda de da Cunha, 34, Canadá, 06605808 Leão Verde / AC",Orgânico,CRP00011
+CRM00161,Calebe Pires,Neurologista,Uberlândia,RJ,"Rodovia de Montenegro, Aguas Claras, 24207-530 Martins de Casa Grande / BA",Indicação,
+CRP00162,Mariana Vasconcelos,Psicólogo,Juiz de Fora,RJ,"Ladeira Pinto, 78, Beira Linha, 50085854 Silva / MA",Instagram,
+CRM00163,Sra. Marcela Azevedo,Psiquiatra,Campinas,RJ,"Esplanada de Camargo, 27, Vila Nova Gameleira 2ª Seção, 26171-867 Rios / RJ",Outro,
+CRM00164,Sofia da Costa,Neurologista,Sorocaba,SP,"Campo Vargas, 94, Vila Da Luz, 47133-258 Sampaio / RJ",Orgânico,
+CRP00165,Sra. Giovanna da Cunha,Psicólogo,Belo Horizonte,MG,"Área da Rosa, 36, Marmiteiros, 91539-305 Nascimento / PR",Indicação,CRM00150
+CRM00166,Sra. Eloah da Paz,Pediatra,São José dos Campos,SP,"Parque Francisco Alves, 1, Olaria, 95816189 Silva / BA",Instagram,
+CRM00167,Ágatha Lopes,Neurologista,Niterói,RJ,"Parque Henry Gabriel da Rosa, 20, São Vicente, 87850374 Gomes / RS",Orgânico,
+CRP00168,Felipe Fernandes,Psicólogo,Belo Horizonte,MG,"Viaduto Ribeiro, 91, Vale Do Jatoba, 24152121 Vieira / SE",Indicação,
+CRM00169,Yago Marques,Psiquiatra,Votorantim,SP,"Viela Gomes, Ápia, 28979573 Souza de Martins / MS",Outro,
+CRM00170,Laís Ramos,Psiquiatra,Niterói,MG,"Trecho de das Neves, Mariquinhas, 07259403 Gomes de da Luz / RJ",Instagram,
+CRM00171,Bruno Correia,Pediatra,Uberlândia,SP,"Rodovia de da Cunha, Vila Ouro Minas, 52255-494 Cavalcante / PE",Instagram,CRM00073
+CRM00172,Sr. José Pedro Borges,Pediatra,Montes Claros,MG,"Estrada Juan Ferreira, 78, Sagrada Família, 33330561 Caldeira / AP",Facebook,
+CRM00173,Joaquim Monteiro,Pediatra,Volta Redonda,MG,"Pátio de Melo, 308, Vila Piratininga, 35221111 Oliveira / PI",Google,
+CRM00174,Benicio Montenegro,Pediatra,Salto,SP,"Favela de Câmara, 20, Corumbiara, 98602082 Ribeiro do Galho / RS",Facebook,
+CRM00175,Yago Campos,Psiquiatra,Volta Redonda,SP,"Largo Ramos, 962, Graça, 88058-877 Montenegro do Norte / PB",Google,
+CRM00176,Sabrina Nunes,Psiquiatra,Rio de Janeiro,SP,"Lago Larissa da Luz, 42, Vila Das Oliveiras, 98648-409 Rodrigues / SP",Google,
+CRM00177,Ana Casa Grande,Pediatra,Juiz de Fora,RJ,"Núcleo Thomas Casa Grande, 94, Tres Marias, 14768983 Correia do Campo / MT",Outro,
+CRM00178,Maria Júlia Fogaça,Psiquiatra,Bauru,MG,"Rua de Silveira, 5, Barão Homem De Melo 2ª Seção, 48454536 Nunes de Correia / RS",Google,
+CRM00179,Oliver Correia,Neurologista,Juiz de Fora,MG,"Viela Lívia Araújo, 811, Maria Virgínia, 61446-658 Pacheco do Norte / PE",Indicação,CRM00035
+CRM00180,Dra. Marcela Melo,Pediatra,Salto,RJ,"Área Hadassa Camargo, Cachoeirinha, 02235-960 Ferreira do Galho / MT",Instagram,
+CRM00181,Sr. Felipe Teixeira,Psiquiatra,Itu,RJ,"Viaduto de da Rosa, Jardim Do Vale, 60488486 Nascimento / AM",Instagram,CRM00085
+CRM00182,Larissa Duarte,Pediatra,Niterói,MG,"Praia Isis Moreira, 46, Vila União, 90089-730 Lima / MS",Outro,
+CRM00183,Ana Beatriz Martins,Pediatra,Juiz de Fora,SP,"Praia Theodoro Cunha, 14, Solar Do Barreiro, 05550-133 Vasconcelos / MA",Google,
+CRM00184,Caio Vargas,Pediatra,Nova Iguaçu,SP,"Viela Mendonça, 79, Vila Maloca, 18853402 Campos do Norte / AM",Outro,
+CRM00185,Dr. Dom Garcia,Neurologista,Sorocaba,RJ,"Chácara Aparecida, 68, Pompéia, 88462-054 Almeida / SC",Facebook,CRM00096
+CRM00186,Srta. Ayla Moreira,Psiquiatra,Santos,RJ,"Estação de Melo, 46, Vila Piratininga, 01881-497 Silveira de da Cunha / AM",Instagram,
+CRP00187,Ana Vitória Montenegro,Psicólogo,Rio de Janeiro,SP,"Via Fogaça, 4, Vila Real 1ª Seção, 94828827 Sampaio de Goiás / GO",Instagram,CRP00162
+CRM00188,João Lopes,Neurologista,Santos,RJ,"Colônia Sophia Sales, 468, Lagoinha, 73745-714 Cirino de Machado / GO",Google,
+CRP00189,Mirella Peixoto,Psicólogo,Volta Redonda,RJ,"Via de Peixoto, São Jorge 3ª Seção, 71233678 Rodrigues / BA",Facebook,
+CRM00190,Srta. Luísa Fogaça,Neurologista,São Paulo,MG,"Fazenda Macedo, 89, Pedreira Padro Lopes, 41458861 Gonçalves / GO",Orgânico,
+CRM00191,Dom da Cruz,Psiquiatra,Uberlândia,RJ,"Passarela da Cruz, 88, Pedreira Padro Lopes, 54840-042 Abreu / SE",Indicação,
+CRM00192,Raquel Pastor,Psiquiatra,São José dos Campos,MG,"Aeroporto Davi Miguel Rocha, 766, Vila Jardim São José, 93992-783 Porto do Norte / SP",Instagram,
+CRP00193,Sra. Stella Peixoto,Psicólogo,Contagem,RJ,"Residencial de Sousa, 192, Santa Margarida, 38101362 Abreu do Galho / SC",Orgânico,
+CRP00194,Bruno Pimenta,Psicólogo,Salto,MG,"Distrito de Silva, 74, Rio Branco, 45632-250 das Neves das Flores / PB",Facebook,CRP00193
+CRM00195,Dra. Stephany Ribeiro,Pediatra,Montes Claros,MG,"Aeroporto de Sá, 69, Havaí, 42002-892 da Rosa / SE",Instagram,CRP00108
+CRM00196,Rael Brito,Neurologista,Montes Claros,SP,"Lago Correia, 280, Glória, 24928-840 Pereira das Pedras / MT",Instagram,
+CRM00197,Heloisa Moura,Pediatra,Contagem,RJ,"Quadra de Dias, 3, João Pinheiro, 07215980 Gomes do Sul / CE",Outro,CRM00123
+CRP00198,Dom da Mata,Psicólogo,Juiz de Fora,RJ,"Fazenda Cavalcante, 4, Vila Satélite, 78006840 da Mota Grande / RJ",Outro,CRP00074
+CRM00199,Luiz Miguel Duarte,Pediatra,Santos,RJ,"Vereda Marcos Vinicius Cavalcanti, Vila São Rafael, 08224491 Aparecida / RS",Indicação,CRM00197
+CRM00200,Beatriz Abreu,Pediatra,Belo Horizonte,MG,"Residencial de Araújo, 41, Nossa Senhora Do Rosário, 06415-118 Cirino / CE",Indicação,
+CRP00201,Daniel Câmara,Psicólogo,Contagem,MG,"Travessa de Freitas, 2, Alto Vera Cruz, 32321399 Silva / PI",Instagram,
+CRM00202,Sr. João Miguel Cirino,Pediatra,São José dos Campos,MG,"Área Luiz Felipe Carvalho, 5, Vila Satélite, 61019953 Borges / AC",Instagram,
+CRM00203,Dr. Theodoro Ramos,Neurologista,Montes Claros,MG,"Viaduto Nogueira, 5, Cruzeiro, 51941997 Mendonça / PA",Indicação,CRM00042
+CRM00204,Antônio Rios,Psiquiatra,Salto,RJ,"Colônia de Caldeira, 44, Vila Ouro Minas, 67014104 Alves / PA",Orgânico,
+CRM00205,Luiz Fernando Garcia,Psiquiatra,Nova Iguaçu,RJ,"Alameda de Pires, 9, Corumbiara, 73652939 Cardoso de Freitas / RS",Google,
+CRM00206,Dra. Carolina Aragão,Neurologista,Itu,MG,"Pátio Maria Fernanda Pinto, 7, Paraíso, 27944013 Ferreira / RJ",Outro,
+CRM00207,Caroline Duarte,Pediatra,Itu,RJ,"Esplanada de das Neves, 870, Vila Formosa, 06868878 Camargo Verde / CE",Outro,CRM00053
+CRM00208,Davi Luiz Sales,Pediatra,Santos,RJ,"Morro de da Paz, 5, Alpes, 61668450 Dias / SE",Facebook,
+CRP00209,Caroline Cavalcante,Psicólogo,São José dos Campos,RJ,"Jardim de Moreira, 1, Nossa Senhora Do Rosário, 45982781 Melo do Norte / MT",Instagram,
+CRM00210,Maya da Rosa,Pediatra,Juiz de Fora,MG,"Recanto Casa Grande, 712, Serra Verde, 53345338 Costela do Sul / RN",Facebook,
+CRM00211,Cecilia Leão,Psiquiatra,Votorantim,SP,"Via de Costa, 11, Vila Nova Cachoeirinha 2ª Seção, 08520564 Pimenta do Galho / AC",Google,
+CRM00212,José Pedro da Cunha,Neurologista,Contagem,RJ,"Morro de Lopes, 69, Boa Viagem, 43950-444 Sá / RO",Indicação,CRM00072
+CRM00213,Marcelo da Mota,Pediatra,São José dos Campos,SP,"Trevo Erick Cirino, 231, Vitoria, 94944-228 Casa Grande / RN",Outro,
+CRM00214,Lívia Rios,Psiquiatra,São Paulo,SP,"Distrito Luna Peixoto, 13, Barro Preto, 95509-478 Santos da Mata / AP",Outro,CRM00200
+CRP00215,Fernanda Nogueira,Psicólogo,Contagem,RJ,"Campo de Albuquerque, 39, Maravilha, 21189462 Caldeira / AP",Facebook,
+CRM00216,Maria Flor Freitas,Pediatra,Itu,SP,"Vereda Lima, 10, João Pinheiro, 33590-156 Albuquerque dos Dourados / RO",Google,
+CRP00217,Maria Clara Sá,Psicólogo,Sorocaba,SP,"Travessa Allana Borges, 86, Embaúbas, 92839-625 Marques de da Luz / RR",Outro,
+CRM00218,Matteo Campos,Psiquiatra,Duque de Caxias,SP,"Pátio Isabel Sá, 77, João Paulo Ii, 63365586 Machado / AM",Indicação,CRM00155
+CRM00219,Benjamin Lima,Pediatra,Juiz de Fora,MG,"Parque de Peixoto, 39, Jaqueline, 23443-692 Barros da Praia / PA",Orgânico,
+CRM00220,Vinicius Costela,Pediatra,Montes Claros,MG,"Praia Manuela Pires, 81, Vila Petropolis, 33601078 Mendes das Flores / SP",Facebook,CRM00167
+CRP00221,Ana Clara Freitas,Psicólogo,Bauru,MG,"Loteamento de Andrade, 95, Aparecida, 65498061 Garcia da Mata / PI",Indicação,CRM00104
+CRM00222,Maria Flor Abreu,Pediatra,Bauru,MG,"Passarela Ana Laura Lima, 4, Barro Preto, 32428-662 Monteiro / AM",Outro,
+CRM00223,Cecília Borges,Psiquiatra,Sorocaba,MG,"Parque Bárbara Lopes, 47, Venda Nova, 60727723 Freitas dos Dourados / PA",Indicação,
+CRM00224,José Pedro Marques,Pediatra,Salto,RJ,"Vila Maria Isis Pires, 7, Grota, 22612349 Fernandes dos Dourados / CE",Indicação,CRP00006
+CRP00225,João Peixoto,Psicólogo,Montes Claros,SP,"Ladeira Stephany Silva, 26, Jardim Vitoria, 09957818 Costela / PE",Instagram,
+CRM00226,Allana Mendonça,Neurologista,Bauru,RJ,"Feira de Souza, 6, Monte São José, 70533-085 Peixoto / PI",Instagram,CRM00161
+CRM00227,Yago Rocha,Neurologista,Nova Iguaçu,SP,"Travessa Isis Sales, Conjunto Taquaril, 98956-911 Correia / AC",Facebook,CRP00125
+CRM00228,Maysa Fogaça,Psiquiatra,Araçoiaba da Serra,SP,"Vila de Rezende, 5, Barão Homem De Melo 3ª Seção, 41616-613 Gonçalves / DF",Indicação,
+CRP00229,Dr. Vinicius Ferreira,Psicólogo,Duque de Caxias,RJ,"Chácara Apollo da Rocha, 908, Silveira, 57498758 Viana do Norte / CE",Facebook,CRM00126
+CRM00230,Joaquim Montenegro,Pediatra,Bauru,MG,"Setor Peixoto, Universo, 79354445 Fernandes / SC",Outro,
+CRM00231,Gabriela Rezende,Psiquiatra,Belo Horizonte,SP,"Trevo de Duarte, Céu Azul, 14578-245 Lima de Goiás / PA",Outro,
+CRP00232,Benicio Fogaça,Psicólogo,São Paulo,SP,"Chácara de Jesus, 77, Fazendinha, 73338568 Gonçalves / RJ",Outro,CRM00143
+CRP00233,Lívia Machado,Psicólogo,Rio de Janeiro,RJ,"Vereda de Araújo, 6, Vila Independencia 3ª Seção, 34316292 Siqueira / MT",Instagram,
+CRM00234,Ester Campos,Psiquiatra,Montes Claros,MG,"Feira Freitas, 31, Alta Tensão 1ª Seção, 74921-386 Garcia / PE",Outro,
+CRM00235,Vinícius Pimenta,Neurologista,Juiz de Fora,SP,"Viaduto Ribeiro, 370, Granja Werneck, 64531-076 Mendes / AC",Outro,CRP00032
+CRM00236,Matheus Aparecida,Neurologista,Niterói,SP,"Jardim Rafael Ramos, 49, Itatiaia, 71615-633 Almeida das Pedras / RO",Outro,CRM00050
+CRP00237,Antony Sá,Psicólogo,Votorantim,SP,"Viela Castro, 31, Custodinha, 36726847 Aparecida / PI",Indicação,
+CRP00238,Noah Peixoto,Psicólogo,Nova Iguaçu,SP,"Alameda Oliver Silveira, 12, Nossa Senhora Aparecida, 89580424 Brito de Minas / RO",Indicação,
+CRM00239,Valentina Silveira,Pediatra,Juiz de Fora,SP,"Campo Azevedo, 73, Santa Inês, 87334-667 Sousa das Flores / PE",Instagram,
+CRM00240,Gustavo Henrique Aragão,Pediatra,Belo Horizonte,RJ,"Favela Maria Julia Albuquerque, 88, Vila União, 46438-508 Freitas / RO",Orgânico,
+CRM00241,Ana da Paz,Psiquiatra,Bauru,SP,"Morro Thiago Castro, 935, São Jorge 3ª Seção, 42109-438 Ferreira / SP",Orgânico,
+CRM00242,Rafael Pastor,Pediatra,Volta Redonda,RJ,"Trecho de Moraes, 20, São Damião, 08075-393 Vargas das Flores / PB",Instagram,
+CRM00243,Alexia Alves,Psiquiatra,Araçoiaba da Serra,MG,"Área Olívia da Costa, 565, Vila Petropolis, 33805-363 Macedo de Minas / RR",Facebook,
+CRP00244,Sabrina Montenegro,Psicólogo,Belo Horizonte,SP,"Via Davi Ferreira, 64, Vila Suzana Primeira Seção, 92582491 Nogueira do Sul / PI",Indicação,CRM00120
+CRM00245,Joana Duarte,Neurologista,Bauru,SP,"Rodovia de Oliveira, Dom Cabral, 05876869 Garcia de Minas / PI",Outro,CRM00177
+CRM00246,Bryan Gomes,Neurologista,Montes Claros,RJ,"Campo Vicente Caldeira, 88, Vila Santo Antônio, 10566-326 da Mota / PA",Instagram,CRM00159
+CRP00247,Arthur Gabriel Cirino,Psicólogo,Campinas,RJ,"Viela de Porto, 78, Madri, 57866673 Vasconcelos do Sul / ES",Google,
+CRM00248,Calebe Camargo,Psiquiatra,Sorocaba,MG,"Sítio Liz Barros, 84, Vera Cruz, 41851-996 Sales / CE",Facebook,CRM00210
+CRP00249,Mariah Casa Grande,Psicólogo,Bauru,RJ,"Fazenda Mendonça, 1, Milionario, 02339-804 Santos de da Cruz / BA",Instagram,
+CRP00250,Emilly Cardoso,Psicólogo,Nova Iguaçu,MG,"Residencial de Dias, 711, Chácara Leonina, 96971-851 da Mata / RO",Orgânico,
+CRM00251,Melina Martins,Psiquiatra,Duque de Caxias,SP,"Condomínio Sales, 49, São Francisco Das Chagas, 96278611 Nunes / CE",Facebook,CRM00055
+CRM00252,Isabel Rodrigues,Pediatra,São Paulo,SP,"Viela de da Mata, 3, Olaria, 83588974 Freitas / RS",Orgânico,CRM00204
+CRP00253,Bento Vargas,Psicólogo,Duque de Caxias,MG,"Lago de Castro, 5, Vera Cruz, 49287-675 Machado Alegre / ES",Orgânico,
+CRP00254,Maria Luísa Jesus,Psicólogo,Campinas,SP,"Via Otávio Sá, 224, Santa Efigênia, 37332640 Peixoto / RS",Google,
+CRM00255,Leonardo da Paz,Psiquiatra,Volta Redonda,SP,"Alameda Moreira, 82, Flavio De Oliveira, 99192-157 da Cunha Paulista / RR",Facebook,CRP00121
+CRM00256,Elisa Nunes,Neurologista,Itu,MG,"Aeroporto Vieira, Juliana, 87001906 da Paz / PA",Google,CRP00225
+CRP00257,Sr. Benício Pires,Psicólogo,Rio de Janeiro,RJ,"Morro Guerra, 54, Estrela, 62920-665 Fonseca das Pedras / RS",Instagram,
+CRM00258,Mariah Viana,Neurologista,Nova Iguaçu,SP,"Praia Aragão, Pantanal, 10955753 Fernandes / SP",Indicação,
+CRP00259,Sra. Jade Sales,Psicólogo,Rio de Janeiro,RJ,"Colônia Melo, 9, Marçola, 91178-188 Farias de Vieira / PE",Instagram,
+CRM00260,Luiz Miguel Novaes,Pediatra,Itu,RJ,"Praça de Carvalho, 49, Piratininga, 08719-571 Guerra da Serra / SP",Orgânico,
+CRM00261,Anthony Aragão,Psiquiatra,São Paulo,RJ,"Campo Ana Aparecida, 75, São Bernardo, 90037-086 da Rosa / PA",Outro,CRM00223
+CRP00262,Bryan Aragão,Psicólogo,São Paulo,MG,"Vereda Ana Beatriz Cavalcanti, 97, Delta, 62314-701 Gonçalves / RO",Outro,CRM00222
+CRM00263,Léo Jesus,Pediatra,Sorocaba,SP,"Passarela Gomes, 723, Chácara Leonina, 13421487 da Conceição do Sul / BA",Instagram,
+CRM00264,Dra. Sarah Gonçalves,Pediatra,Juiz de Fora,RJ,"Chácara Novaes, 4, Capitão Eduardo, 88535-913 Montenegro da Serra / RO",Facebook,
+CRM00265,Isadora Monteiro,Psiquiatra,Uberlândia,MG,"Rua de Sampaio, 624, Vila Jardim Leblon, 98781339 Viana / PR",Facebook,
+CRM00266,Gael Henrique Teixeira,Neurologista,Montes Claros,SP,"Esplanada de Ramos, 39, Vila Minaslandia, 54138-705 da Paz da Mata / AC",Instagram,
+CRM00267,Dr. Ryan Duarte,Neurologista,Bauru,RJ,"Lago Camargo, 16, Xodo-Marize, 02499-141 Sales / PR",Instagram,CRM00188
+CRM00268,Ravy Novaes,Pediatra,Sorocaba,RJ,"Pátio de Monteiro, 73, Serra, 04545794 Monteiro / MS",Orgânico,CRM00140
+CRP00269,Ravi Lucca Cunha,Psicólogo,Votorantim,MG,"Passarela Sales, 853, Cônego Pinheiro 2ª Seção, 44971-226 Barbosa da Mata / RS",Outro,
+CRM00270,Isabella Leão,Pediatra,Votorantim,RJ,"Trecho Brito, Vila São João Batista, 58534029 Almeida de Moraes / RJ",Orgânico,
+CRP00271,Sr. Thiago Viana,Psicólogo,Montes Claros,RJ,"Viaduto Vicente Andrade, Boa União 2ª Seção, 74896782 Câmara do Amparo / MG",Indicação,CRM00053
+CRM00272,Carolina da Luz,Neurologista,Sorocaba,MG,"Loteamento Silveira, Silveira, 18044794 Duarte / AL",Orgânico,
+CRM00273,Dra. Lunna Viana,Psiquiatra,Campinas,RJ,"Ladeira de Pereira, 7, Vila Santa Rosa, 35627061 Ribeiro / MS",Facebook,CRM00061
+CRM00274,Benjamin Vargas,Neurologista,Votorantim,MG,"Vale Pires, 83, Confisco, 77408988 Melo Verde / PB",Instagram,CRM00142
+CRM00275,Sr. Breno Viana,Psiquiatra,Volta Redonda,RJ,"Lago de Duarte, 7, Jardim São José, 39828836 Abreu de Aparecida / RJ",Outro,CRP00162
+CRM00276,Isis Caldeira,Psiquiatra,Uberlândia,RJ,"Sítio Rodrigues, 85, Coração De Jesus, 98872307 Sales da Praia / TO",Orgânico,CRM00206
+CRP00277,Maria Luísa Rezende,Psicólogo,Votorantim,RJ,"Sítio Thiago Brito, 10, Vila Ouro Minas, 22064620 Rezende das Pedras / PR",Google,CRM00256
+CRM00278,Theodoro da Costa,Psiquiatra,São Paulo,RJ,"Trecho Pires, 11, Conjunto Serra Verde, 96380264 Vargas / PI",Google,CRM00022
+CRM00279,Igor Barbosa,Pediatra,Santos,RJ,"Esplanada de Cavalcante, Vila Piratininga, 58177-292 Martins do Galho / DF",Outro,
+CRM00280,Isabel Leão,Psiquiatra,Sorocaba,RJ,"Alameda Duarte, 62, Cinquentenário, 00118-123 Mendes / DF",Instagram,CRM00179
+CRM00281,Valentina Novais,Neurologista,Montes Claros,MG,"Vereda Casa Grande, 31, Heliopolis, 65210107 Farias da Serra / AL",Orgânico,
+CRM00282,Sra. Ana Júlia Andrade,Neurologista,Montes Claros,RJ,"Vereda de Silveira, Pindura Saia, 58085111 Almeida da Mata / AM",Google,CRP00046
+CRM00283,Enrico Silveira,Psiquiatra,Itu,RJ,"Condomínio Cavalcante, Horto, 50826-703 Pastor / PR",Facebook,
+CRM00284,Anthony Macedo,Neurologista,Sorocaba,SP,"Feira de Monteiro, 2, Andiroba, 51414-688 Viana / PR",Facebook,
+CRP00285,Dr. Benício Aparecida,Psicólogo,São José dos Campos,SP,"Lago Nogueira, 25, Novo São Lucas, 75362479 Fogaça / CE",Instagram,
+CRM00286,Gael Siqueira,Psiquiatra,Araçoiaba da Serra,RJ,"Aeroporto Davi Miguel Mendes, 735, Das Industrias I, 40585-881 Nogueira / MS",Instagram,CRM00146
+CRM00287,Dr. Renan Barros,Psiquiatra,Araçoiaba da Serra,MG,"Praia Eloah Melo, Novo Glória, 27106-104 Vasconcelos / SP",Orgânico,
+CRM00288,Josué Almeida,Psiquiatra,São Paulo,SP,"Morro de da Conceição, 368, Ipiranga, 59780078 Camargo das Pedras / RN",Facebook,CRM00151
+CRM00289,Bento Moreira,Pediatra,Montes Claros,RJ,"Quadra Beatriz Dias, 8, Jardim Montanhês, 44439446 Guerra / MG",Instagram,CRM00181
+CRM00290,Oliver Vargas,Pediatra,Niterói,MG,"Colônia Rebeca Caldeira, 48, Corumbiara, 94155-299 Martins / PB",Indicação,
+CRM00291,Mirella Borges,Psiquiatra,Duque de Caxias,SP,"Vale de Pereira, 71, Alto Das Antenas, 13113787 Nogueira / PR",Indicação,CRM00107
+CRP00292,Nicole Rios,Psicólogo,Bauru,MG,"Avenida Oliveira, 8, Pongelupe, 58400906 Porto / MT",Facebook,
+CRM00293,João Gabriel Jesus,Pediatra,Niterói,SP,"Aeroporto Bruna Abreu, 18, Nova Granada, 55288973 Porto de Novais / GO",Facebook,CRM00239
+CRM00294,Pedro Miguel Ribeiro,Pediatra,Salto,SP,"Trecho Alves, 24, Nova Cachoeirinha, 77237973 Nunes / AC",Orgânico,
+CRM00295,Sr. Gael Teixeira,Psiquiatra,Araçoiaba da Serra,MG,"Trecho de Castro, Liberdade, 86470485 Aparecida da Serra / DF",Indicação,
+CRM00296,Josué Vasconcelos,Pediatra,Contagem,RJ,"Lago de Santos, 27, Barroca, 65037-150 Mendes / GO",Outro,
+CRM00297,Sophie Câmara,Neurologista,Salto,MG,"Distrito de Araújo, 3, Antonio Ribeiro De Abreu 1ª Seção, 15262076 Oliveira de Fonseca / RR",Outro,
+CRM00298,Luara Rocha,Neurologista,Juiz de Fora,SP,"Rodovia de Lopes, Prado, 25006-973 Fernandes do Galho / PB",Indicação,
+CRM00299,Dra. Joana Pastor,Neurologista,Uberlândia,SP,"Favela de Campos, 21, Aeroporto, 78313571 Pastor / RR",Instagram,CRM00279

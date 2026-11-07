@@ -1,0 +1,566 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Inteligência de Liquidez para Imobiliárias &bull; PI 5</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=SF+Pro+Display:wght@300;400;500;600;700&family=SF+Pro+Text:wght@400;500;600&display=swap" rel="stylesheet">
+  
+  <style>
+    :root {
+      --bg-color: #f5f5f7;
+      --card-bg: rgba(255, 255, 255, 0.92);
+      --text-main: #1d1d1f;
+      --text-sub: #86868b;
+      --accent-color: #0071e3;
+      --accent-hover: #0077ed;
+      --border-color: rgba(0, 0, 0, 0.08);
+      --shadow-subtle: 0 4px 24px rgba(0, 0, 0, 0.04);
+      --shadow-hover: 0 16px 40px rgba(0, 0, 0, 0.08);
+      --font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "SF Pro Text", "Helvetica Neue", sans-serif;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    body {
+      background-color: var(--bg-color);
+      color: var(--text-main);
+      font-family: var(--font-family);
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 40px 24px;
+    }
+
+    .app-wrapper {
+      display: grid;
+      grid-template-columns: 1.15fr 0.85fr;
+      gap: 48px;
+      width: 100%;
+      max-width: 1200px;
+      align-items: start;
+    }
+
+    /* Lado Esquerdo */
+    .landing-pane {
+      padding: 16px 8px;
+    }
+
+    .badge-institutional {
+      display: inline-block;
+      font-size: 11px;
+      font-weight: 600;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--accent-color);
+      background: rgba(0, 113, 227, 0.08);
+      padding: 4px 12px;
+      border-radius: 20px;
+      margin-bottom: 16px;
+    }
+
+    h1.hero-title {
+      font-size: 40px;
+      font-weight: 700;
+      letter-spacing: -0.025em;
+      line-height: 1.15;
+      color: var(--text-main);
+      margin-bottom: 16px;
+    }
+
+    p.hero-description {
+      font-size: 16px;
+      line-height: 1.5;
+      color: var(--text-sub);
+      margin-bottom: 28px;
+    }
+
+    .metrics-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 16px;
+      margin-bottom: 28px;
+    }
+
+    .metric-card {
+      background: rgba(255, 255, 255, 0.65);
+      border: 1px solid var(--border-color);
+      border-radius: 14px;
+      padding: 16px;
+      backdrop-filter: blur(10px);
+    }
+
+    .metric-value {
+      font-size: 24px;
+      font-weight: 600;
+      color: var(--text-main);
+      margin-bottom: 4px;
+    }
+
+    .metric-label {
+      font-size: 13px;
+      color: var(--text-sub);
+      line-height: 1.35;
+    }
+
+    /* Pipeline & Critérios */
+    .pipeline-section {
+      border-top: 1px solid rgba(0, 0, 0, 0.08);
+      padding-top: 24px;
+    }
+
+    .section-title {
+      font-size: 13px;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      color: var(--text-sub);
+      margin-bottom: 14px;
+    }
+
+    .pipeline-steps {
+      list-style: none;
+      display: flex;
+      flex-direction: column;
+      gap: 14px;
+    }
+
+    .pipeline-step {
+      display: flex;
+      align-items: flex-start;
+      gap: 12px;
+      font-size: 13.5px;
+      color: #333336;
+      line-height: 1.45;
+    }
+
+    .step-icon {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 22px;
+      height: 22px;
+      border-radius: 50%;
+      background: #e8e8ed;
+      color: var(--text-main);
+      font-size: 11px;
+      font-weight: 600;
+      flex-shrink: 0;
+      margin-top: 2px;
+    }
+
+    /* Lado Direito: Formulário */
+    .form-card {
+      background: var(--card-bg);
+      backdrop-filter: blur(25px);
+      -webkit-backdrop-filter: blur(25px);
+      border: 1px solid var(--border-color);
+      border-radius: 24px;
+      padding: 32px;
+      box-shadow: var(--shadow-subtle);
+      transition: box-shadow 0.3s ease;
+    }
+
+    .form-card:hover {
+      box-shadow: var(--shadow-hover);
+    }
+
+    .form-card-title {
+      font-size: 20px;
+      font-weight: 600;
+      margin-bottom: 4px;
+      color: var(--text-main);
+    }
+
+    .form-card-subtitle {
+      font-size: 13px;
+      color: var(--text-sub);
+      margin-bottom: 22px;
+    }
+
+    .form-group {
+      margin-bottom: 16px;
+    }
+
+    .form-row {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 12px;
+    }
+
+    .form-row-3 {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      gap: 12px;
+    }
+
+    label {
+      display: block;
+      font-size: 13px;
+      font-weight: 500;
+      color: var(--text-sub);
+      margin-bottom: 6px;
+    }
+
+    input, select {
+      width: 100%;
+      height: 44px;
+      padding: 0 14px;
+      font-size: 15px;
+      font-family: var(--font-family);
+      color: var(--text-main);
+      background-color: #ffffff;
+      border: 1px solid var(--border-color);
+      border-radius: 11px;
+      outline: none;
+      transition: all 0.2s ease;
+    }
+
+    input:focus, select:focus {
+      border-color: var(--accent-color);
+      box-shadow: 0 0 0 3px rgba(0, 113, 227, 0.15);
+    }
+
+    button.btn-primary {
+      width: 100%;
+      height: 46px;
+      background-color: var(--accent-color);
+      color: #ffffff;
+      font-size: 15px;
+      font-weight: 500;
+      font-family: var(--font-family);
+      border: none;
+      border-radius: 12px;
+      cursor: pointer;
+      margin-top: 8px;
+      transition: background-color 0.2s ease, transform 0.1s ease;
+    }
+
+    button.btn-primary:hover {
+      background-color: var(--accent-hover);
+    }
+
+    button.btn-primary:active {
+      transform: scale(0.99);
+    }
+
+    /* Resultados */
+    .result-container {
+      display: none;
+      margin-top: 24px;
+      padding: 20px;
+      border-radius: 16px;
+      background: #ffffff;
+      border: 1px solid var(--border-color);
+      animation: fadeIn 0.4s ease-out;
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(8px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    .result-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      margin-bottom: 12px;
+    }
+
+    .prob-value {
+      font-size: 32px;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      color: var(--text-main);
+    }
+
+    .prob-label {
+      font-size: 12px;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      font-weight: 600;
+      color: var(--text-sub);
+    }
+
+    .badge {
+      display: inline-block;
+      padding: 4px 10px;
+      border-radius: 20px;
+      font-size: 12px;
+      font-weight: 600;
+      letter-spacing: 0.02em;
+    }
+
+    .badge-high {
+      background-color: #e3f6ea;
+      color: #1b8744;
+    }
+
+    .badge-medium {
+      background-color: #fdf3e2;
+      color: #b56e07;
+    }
+
+    .badge-low {
+      background-color: #fceceb;
+      color: #d13028;
+    }
+
+    .recommendation {
+      font-size: 14px;
+      line-height: 1.45;
+      color: #424245;
+      padding-top: 12px;
+      border-top: 1px solid rgba(0, 0, 0, 0.06);
+    }
+
+    @media (max-width: 960px) {
+      .app-wrapper {
+        grid-template-columns: 1fr;
+        gap: 32px;
+      }
+      .landing-pane {
+        text-align: center;
+      }
+      .pipeline-step {
+        text-align: left;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <div class="app-wrapper">
+    <!-- LADO ESQUERDO: Título, Métricas e Explicabilidade dos Critérios -->
+    <div class="landing-pane">
+      <span class="badge-institutional">Fatec Votorantim &bull; PI 5</span>
+      <h1 class="hero-title">Inteligência de Liquidez para Imobiliárias</h1>
+      <p class="hero-description">
+        Solução preditiva de suporte à decisão para avaliar a probabilidade de fechamento contratual de imóveis em carteira, otimizando esforços comerciais e reduzindo custos de vacância.
+      </p>
+
+      <div class="metrics-grid">
+        <div class="metric-card">
+          <div class="metric-value">0,607</div>
+          <div class="metric-label"><strong>ROC-AUC</strong> em validação cruzada, separando imóveis de alta liquidez e risco de retenção.</div>
+        </div>
+        <div class="metric-card">
+          <div class="metric-value">54,6%</div>
+          <div class="metric-label"><strong>Acurácia Balanceada</strong> ajustada aos desfechos reais de locação concluída vs. descarte.</div>
+        </div>
+        <div class="metric-card">
+          <div class="metric-value">Anti-Vazamento</div>
+          <div class="metric-label">Exclusão de métricas operacionais posteriores (ex: total de visitas) para inferência justa no anúncio.</div>
+        </div>
+        <div class="metric-card">
+          <div class="metric-value">Scikit-Learn</div>
+          <div class="metric-label">Pipeline de produção desacoplado em microsserviço REST com resposta em tempo real.</div>
+        </div>
+      </div>
+
+      <!-- Critérios e Explicabilidade do Modelo -->
+      <div class="pipeline-section">
+        <div class="section-title">Critérios do Modelo e Composição da Probabilidade</div>
+        <ul class="pipeline-steps">
+          <li class="pipeline-step">
+            <span class="step-icon">1</span>
+            <span><strong>Variáveis Consideradas no Cálculo:</strong> O modelo analisa conjuntamente 6 fatores de entrada: <em>Valor do Anúncio (R$)</em>, <em>Dormitórios</em>, <em>Banheiros</em>, <em>Vagas de Garagem</em>, <em>Tipo do Imóvel</em> e <em>Bairro</em>.</span>
+          </li>
+          <li class="pipeline-step">
+            <span class="step-icon">2</span>
+            <span><strong>Padronização Numérica:</strong> Imóveis com valores ou dimensões atípicas passam por imputação de nulos pela mediana e escala padrão (StandardScaler), evitando distorções causadas por imóveis fora da curva.</span>
+          </li>
+          <li class="pipeline-step">
+            <span class="step-icon">3</span>
+            <span><strong>Ponderação Geográfica e Tipológica:</strong> O One-Hot Encoder mapeia a demanda histórica específica de cada bairro e tipo. Bairros centrais ou com alta procura recebem pesos favoráveis de conversão.</span>
+          </li>
+          <li class="pipeline-step">
+            <span class="step-icon">4</span>
+            <span><strong>Cálculo Logístico da Probabilidade:</strong> O classificador (Regressão Logística com balanceamento de classes) aplica a função sigmoide sobre o somatório ponderado desses fatores, resultando na probabilidade exata (0% a 100%) de fechamento.</span>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- LADO DIREITO: Simulador Interativo -->
+    <div class="form-card">
+      <div class="form-card-title">Simulador de Liquidez para Locação</div>
+      <div class="form-card-subtitle">Insira as características do anúncio para calcular a estimativa.</div>
+
+      <form id="prediction-form">
+        <div class="form-row">
+          <div class="form-group">
+            <label for="finalidade">Finalidade</label>
+            <select id="finalidade" required>
+              <option value="Locação" selected>Locação</option>
+              <option value="Venda" disabled>Venda (Em Breve - PI 6)</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <label for="valor_anuncio">Valor do Aluguel (R$)</label>
+            <input type="number" id="valor_anuncio" step="50" placeholder="Ex: 2200" required value="2200">
+          </div>
+        </div>
+
+        <div class="form-row-3">
+          <div class="form-group">
+            <label for="dormitorios">Quartos</label>
+            <input type="number" id="dormitorios" min="0" value="2" required>
+          </div>
+          <div class="form-group">
+            <label for="banheiros">Banheiros</label>
+            <input type="number" id="banheiros" min="0" value="1" required>
+          </div>
+          <div class="form-group">
+            <label for="garagens">Vagas</label>
+            <input type="number" id="garagens" min="0" value="1" required>
+          </div>
+        </div>
+
+        <div class="form-group">
+          <label for="tipo">Tipo de Imóvel</label>
+          <select id="tipo" required>
+            <option value="Apartamento" selected>Apartamento</option>
+            <option value="Casa">Casa</option>
+            <option value="Casa em Condomínio">Casa em Condomínio</option>
+            <option value="Comercial">Comercial</option>
+            <option value="Sala Comercial">Sala Comercial</option>
+            <option value="Salão Comercial">Salão Comercial</option>
+            <option value="Terreno">Terreno</option>
+          </select>
+        </div>
+
+        <!-- Bairro com autocomplete interativo -->
+        <div class="form-group">
+          <label for="bairro">Bairro (digite para autocompletar)</label>
+          <input type="text" id="bairro" list="bairros-lista" placeholder="Comece a digitar o bairro..." value="Jardim Vera Cruz" required autocomplete="off">
+          <datalist id="bairros-lista">
+            <option value="Além Ponte">
+            <option value="Alphaville Nova Esplanada 3">
+            <option value="Alto da Boa Vista">
+            <option value="Aparecidinha">
+            <option value="Brigadeiro Tobias">
+            <option value="Campolim">
+            <option value="Centro">
+            <option value="Éden">
+            <option value="Granja Olga">
+            <option value="Ibiti do Paço">
+            <option value="Ibiti Royal Park">
+            <option value="Jardim América">
+            <option value="Jardim Astro">
+            <option value="Jardim dos Estados">
+            <option value="Jardim Emília">
+            <option value="Jardim Europa">
+            <option value="Jardim Guadalajara">
+            <option value="Jardim Paulistano">
+            <option value="Jardim Santa Rosália">
+            <option value="Jardim São Paulo">
+            <option value="Jardim Simus">
+            <option value="Jardim Vera Cruz">
+            <option value="Mangal">
+            <option value="Retiro São João">
+            <option value="Trujillo">
+            <option value="Vila Carvalho">
+            <option value="Vila Fiori">
+            <option value="Vila Haro">
+            <option value="Vila Hortência">
+            <option value="Vila Leão">
+            <option value="Vila Progresso">
+            <option value="Vila Santana">
+            <option value="Wanel Ville">
+            <option value="Votorantim">
+          </datalist>
+        </div>
+
+        <button type="submit" class="btn-primary" id="btn-submit">Calcular Score de Liquidez</button>
+      </form>
+
+      <!-- Painel Dinâmico de Resposta -->
+      <div id="result-container" class="result-container">
+        <div class="result-header">
+          <div>
+            <div class="prob-label">Probabilidade Calculada</div>
+            <div id="result-prob" class="prob-value">0%</div>
+          </div>
+          <span id="result-badge" class="badge">--</span>
+        </div>
+        <div id="result-recommendation" class="recommendation">--</div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    const form = document.getElementById('prediction-form');
+    const btnSubmit = document.getElementById('btn-submit');
+    const resultContainer = document.getElementById('result-container');
+    const resultProb = document.getElementById('result-prob');
+    const resultBadge = document.getElementById('result-badge');
+    const resultRecommendation = document.getElementById('result-recommendation');
+
+    // Porta local 8001
+    const API_URL = 'http://127.0.0.1:8001/predict';
+
+    form.addEventListener('submit', async (e) => {
+      e.preventDefault();
+
+      // Atende ao apontamento: Modelo está calculando em vez de IA
+      btnSubmit.textContent = 'Modelo está calculando...';
+      btnSubmit.disabled = true;
+
+      const payload = {
+        valor_anuncio: parseFloat(document.getElementById('valor_anuncio').value),
+        dormitorios: parseInt(document.getElementById('dormitorios').value),
+        banheiros: parseInt(document.getElementById('banheiros').value),
+        garagens: parseInt(document.getElementById('garagens').value),
+        tipo: document.getElementById('tipo').value,
+        bairro: document.getElementById('bairro').value.trim()
+      };
+
+      try {
+        const response = await fetch(API_URL, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify(payload)
+        });
+
+        if (!response.ok) {
+          throw new Error('Falha ao obter resposta da API local.');
+        }
+
+        const data = await response.json();
+
+        const percent = (data.probabilidade_sucesso * 100).toFixed(1) + '%';
+        resultProb.textContent = percent;
+        resultRecommendation.innerHTML = '<strong>Ação Sugerida:</strong> ' + data.recomendacao_operacional;
+
+        resultBadge.textContent = data.categoria_liquidez;
+        resultBadge.className = 'badge';
+        if (data.probabilidade_sucesso >= 0.65) {
+          resultBadge.classList.add('badge-high');
+        } else if (data.probabilidade_sucesso >= 0.40) {
+          resultBadge.classList.add('badge-medium');
+        } else {
+          resultBadge.classList.add('badge-low');
+        }
+
+        resultContainer.style.display = 'block';
+
+      } catch (err) {
+        alert('Não foi possível conectar à API local na porta 8001. Verifique se o terminal com "python api/app.py" está ativo.');
+        console.error(err);
+      } finally {
+        btnSubmit.textContent = 'Calcular Score de Liquidez';
+        btnSubmit.disabled = false;
+      }
+    });
+  </script>
+</body>
+</html>
